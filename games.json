@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T14:36:08.591Z",
+ "updatedAt": "2026-10-22T14:36:16.874Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -11,8 +11,8 @@
     "Lines",
     "RTP 96.1%"
    ],
-   "revision": 8,
-   "deployedAt": "2026-10-22T08:32:17.994Z",
+   "revision": 12,
+   "deployedAt": "2026-10-22T14:36:15.950Z",
    "thumb": "bullion-express/thumb.jpg"
   },
   {
