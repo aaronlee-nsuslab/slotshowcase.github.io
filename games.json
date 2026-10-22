@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:58:11.040Z",
+ "updatedAt": "2026-10-22T06:58:18.310Z",
  "games": [
   {
    "pid": "79ecce4afbaf409f",
@@ -14,6 +14,19 @@
    "revision": 29,
    "deployedAt": "2026-10-22T06:57:55.365Z",
    "thumb": "candy-pop-cascade/thumb.jpg"
+  },
+  {
+   "pid": "38553e43acc74f78",
+   "slug": "dead-ridge-outlaws",
+   "title": "Dead Ridge Outlaws",
+   "tags": [
+    "5×5",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 6,
+   "deployedAt": "2026-10-22T06:58:17.439Z",
+   "thumb": "dead-ridge-outlaws/thumb.jpg"
   },
   {
    "pid": "fae9639deecb45a9",
