@@ -1,7 +1,20 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:56:19.844Z",
+ "updatedAt": "2026-10-22T06:57:11.506Z",
  "games": [
+  {
+   "pid": "f426b1224aa54b1e",
+   "slug": "gumdrop-swipe-park",
+   "title": "Gumdrop Swipe Park",
+   "tags": [
+    "7×7",
+    "Match3",
+    "RTP 96.6%"
+   ],
+   "revision": 11,
+   "deployedAt": "2026-10-22T06:57:10.627Z",
+   "thumb": "gumdrop-swipe-park/thumb.jpg"
+  },
   {
    "pid": "f7d322063ecf4525",
    "slug": "moonlit-pumpkin-swipe",
