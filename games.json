@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:57:42.007Z",
+ "updatedAt": "2026-10-22T06:57:48.919Z",
  "games": [
   {
    "pid": "fae9639deecb45a9",
@@ -54,6 +54,19 @@
    "revision": 12,
    "deployedAt": "2026-10-22T06:57:34.155Z",
    "thumb": "nile-sovereign/thumb.jpg"
+  },
+  {
+   "pid": "c22d2a1991554fec",
+   "slug": "terracotta-fortune",
+   "title": "Terracotta Fortune",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 18,
+   "deployedAt": "2026-10-22T06:57:48.064Z",
+   "thumb": "terracotta-fortune/thumb.jpg"
   },
   {
    "pid": "41fd540e1cd340f4",
