@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:58:40.992Z",
+ "updatedAt": "2026-10-22T06:58:48.377Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -66,6 +66,19 @@
    "revision": 11,
    "deployedAt": "2026-10-22T06:57:10.627Z",
    "thumb": "gumdrop-swipe-park/thumb.jpg"
+  },
+  {
+   "pid": "d1d0550e78074f7c",
+   "slug": "lunker-lagoon",
+   "title": "Lunker Lagoon",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.7%"
+   ],
+   "revision": 7,
+   "deployedAt": "2026-10-22T06:58:47.518Z",
+   "thumb": "lunker-lagoon/thumb.jpg"
   },
   {
    "pid": "f7d322063ecf4525",
