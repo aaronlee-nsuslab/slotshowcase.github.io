@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T14:34:58.982Z",
+ "updatedAt": "2026-10-22T14:35:06.967Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -181,8 +181,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 12,
-   "deployedAt": "2026-10-22T08:31:29.221Z",
+   "revision": 18,
+   "deployedAt": "2026-10-22T14:35:05.968Z",
    "thumb": "nile-sovereign/thumb.jpg"
   },
   {
