@@ -1,7 +1,20 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:57:35.111Z",
+ "updatedAt": "2026-10-22T06:57:42.007Z",
  "games": [
+  {
+   "pid": "fae9639deecb45a9",
+   "slug": "golden-prize-showtime",
+   "title": "Golden Prize Showtime",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 10,
+   "deployedAt": "2026-10-22T06:57:41.017Z",
+   "thumb": "golden-prize-showtime/thumb.jpg"
+  },
   {
    "pid": "f426b1224aa54b1e",
    "slug": "gumdrop-swipe-park",
