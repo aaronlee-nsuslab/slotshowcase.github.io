@@ -1,7 +1,20 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:57:48.919Z",
+ "updatedAt": "2026-10-22T06:57:56.325Z",
  "games": [
+  {
+   "pid": "79ecce4afbaf409f",
+   "slug": "candy-pop-cascade",
+   "title": "Candy Pop Cascade",
+   "tags": [
+    "6×5",
+    "Pay Anywhere",
+    "RTP 96.5%"
+   ],
+   "revision": 29,
+   "deployedAt": "2026-10-22T06:57:55.365Z",
+   "thumb": "candy-pop-cascade/thumb.jpg"
+  },
   {
    "pid": "fae9639deecb45a9",
    "slug": "golden-prize-showtime",
