@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:58:48.377Z",
+ "updatedAt": "2026-10-22T06:58:55.723Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -66,6 +66,19 @@
    "revision": 11,
    "deployedAt": "2026-10-22T06:57:10.627Z",
    "thumb": "gumdrop-swipe-park/thumb.jpg"
+  },
+  {
+   "pid": "fe49aede092c4bd2",
+   "slug": "hammer-hogs",
+   "title": "Hammer Hogs",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 6,
+   "deployedAt": "2026-10-22T06:58:54.839Z",
+   "thumb": "hammer-hogs/thumb.jpg"
   },
   {
    "pid": "d1d0550e78074f7c",
