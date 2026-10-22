@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T08:31:11.704Z",
+ "updatedAt": "2026-10-22T08:31:18.038Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -247,7 +247,7 @@
     "RTP 96.0%"
    ],
    "revision": 29,
-   "deployedAt": "2026-10-22T06:57:17.726Z",
+   "deployedAt": "2026-10-22T08:31:17.102Z",
    "thumb": "thunder-drum-fortune/thumb.jpg"
   },
   {
