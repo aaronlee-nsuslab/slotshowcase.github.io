@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:58:18.310Z",
+ "updatedAt": "2026-10-22T06:58:26.409Z",
  "games": [
   {
    "pid": "79ecce4afbaf409f",
@@ -93,6 +93,19 @@
    "revision": 12,
    "deployedAt": "2026-10-22T06:57:34.155Z",
    "thumb": "nile-sovereign/thumb.jpg"
+  },
+  {
+   "pid": "585b315ff3ec4622",
+   "slug": "ruby-hearts-royale",
+   "title": "Ruby Hearts Royale",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 6,
+   "deployedAt": "2026-10-22T06:58:25.493Z",
+   "thumb": "ruby-hearts-royale/thumb.jpg"
   },
   {
    "pid": "d59a967b8b9f4165",
