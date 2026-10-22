@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:57:25.714Z",
+ "updatedAt": "2026-10-22T06:57:35.111Z",
  "games": [
   {
    "pid": "f426b1224aa54b1e",
@@ -28,6 +28,19 @@
    "revision": 16,
    "deployedAt": "2026-10-22T06:56:19.019Z",
    "thumb": "moonlit-pumpkin-swipe/thumb.jpg"
+  },
+  {
+   "pid": "9a164cc4a4264a33",
+   "slug": "nile-sovereign",
+   "title": "Nile Sovereign",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 12,
+   "deployedAt": "2026-10-22T06:57:34.155Z",
+   "thumb": "nile-sovereign/thumb.jpg"
   },
   {
    "pid": "41fd540e1cd340f4",
