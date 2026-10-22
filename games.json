@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T08:32:34.941Z",
+ "updatedAt": "2026-10-22T08:32:41.104Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -64,7 +64,7 @@
     "RTP 96.0%"
    ],
    "revision": 8,
-   "deployedAt": "2026-10-22T06:59:09.273Z",
+   "deployedAt": "2026-10-22T08:32:40.165Z",
    "thumb": "dynamite-gulch/thumb.jpg"
   },
   {
