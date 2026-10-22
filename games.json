@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:59:19.670Z",
+ "updatedAt": "2026-10-22T06:59:29.175Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -27,6 +27,19 @@
    "revision": 29,
    "deployedAt": "2026-10-22T06:57:55.365Z",
    "thumb": "candy-pop-cascade/thumb.jpg"
+  },
+  {
+   "pid": "1543329eb59d444b",
+   "slug": "cellblock-riot",
+   "title": "Cellblock Riot",
+   "tags": [
+    "5×5",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 8,
+   "deployedAt": "2026-10-22T06:59:28.286Z",
+   "thumb": "cellblock-riot/thumb.jpg"
   },
   {
    "pid": "38553e43acc74f78",
