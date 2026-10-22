@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:58:03.399Z",
+ "updatedAt": "2026-10-22T06:58:11.040Z",
  "games": [
   {
    "pid": "79ecce4afbaf409f",
@@ -54,6 +54,19 @@
    "revision": 16,
    "deployedAt": "2026-10-22T06:56:19.019Z",
    "thumb": "moonlit-pumpkin-swipe/thumb.jpg"
+  },
+  {
+   "pid": "3b1ab6cac1c548b7",
+   "slug": "nebula-jewels",
+   "title": "Nebula Jewels",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 8,
+   "deployedAt": "2026-10-22T06:58:10.170Z",
+   "thumb": "nebula-jewels/thumb.jpg"
   },
   {
    "pid": "9a164cc4a4264a33",
