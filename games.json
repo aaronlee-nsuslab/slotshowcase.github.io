@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T14:35:39.146Z",
+ "updatedAt": "2026-10-22T14:35:47.231Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -155,8 +155,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 8,
-   "deployedAt": "2026-10-22T08:31:55.425Z",
+   "revision": 12,
+   "deployedAt": "2026-10-22T14:35:46.320Z",
    "thumb": "nebula-jewels/thumb.jpg"
   },
   {
