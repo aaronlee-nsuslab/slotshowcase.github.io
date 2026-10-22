@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:57:56.325Z",
+ "updatedAt": "2026-10-22T06:58:03.399Z",
  "games": [
   {
    "pid": "79ecce4afbaf409f",
@@ -67,6 +67,19 @@
    "revision": 12,
    "deployedAt": "2026-10-22T06:57:34.155Z",
    "thumb": "nile-sovereign/thumb.jpg"
+  },
+  {
+   "pid": "d59a967b8b9f4165",
+   "slug": "sunstone-tome",
+   "title": "Sunstone Tome",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 6,
+   "deployedAt": "2026-10-22T06:58:02.416Z",
+   "thumb": "sunstone-tome/thumb.jpg"
   },
   {
    "pid": "c22d2a1991554fec",
