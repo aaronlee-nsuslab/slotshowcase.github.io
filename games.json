@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:59:10.273Z",
+ "updatedAt": "2026-10-22T06:59:19.670Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -171,6 +171,19 @@
    "revision": 12,
    "deployedAt": "2026-10-22T06:57:34.155Z",
    "thumb": "nile-sovereign/thumb.jpg"
+  },
+  {
+   "pid": "9e9120bcc5d34f30",
+   "slug": "prairie-gold-thunder",
+   "title": "Prairie Gold Thunder",
+   "tags": [
+    "5×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 48,
+   "deployedAt": "2026-10-22T06:59:18.643Z",
+   "thumb": "prairie-gold-thunder/thumb.jpg"
   },
   {
    "pid": "585b315ff3ec4622",
