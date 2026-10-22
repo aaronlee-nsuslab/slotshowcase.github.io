@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:58:55.723Z",
+ "updatedAt": "2026-10-22T06:59:02.661Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -66,6 +66,19 @@
    "revision": 11,
    "deployedAt": "2026-10-22T06:57:10.627Z",
    "thumb": "gumdrop-swipe-park/thumb.jpg"
+  },
+  {
+   "pid": "7b3c05b031464b28",
+   "slug": "gummy-grove",
+   "title": "Gummy Grove",
+   "tags": [
+    "7×7",
+    "Cluster",
+    "RTP 96.0%"
+   ],
+   "revision": 6,
+   "deployedAt": "2026-10-22T06:59:01.776Z",
+   "thumb": "gummy-grove/thumb.jpg"
   },
   {
    "pid": "fe49aede092c4bd2",
