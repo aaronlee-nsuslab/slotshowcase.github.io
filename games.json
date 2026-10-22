@@ -1,0 +1,20 @@
+{
+ "title": "Slot Showcase",
+ "updatedAt": "2026-10-22T06:56:19.844Z",
+ "games": [
+  {
+   "pid": "f7d322063ecf4525",
+   "slug": "moonlit-pumpkin-swipe",
+   "title": "Moonlit Pumpkin Swipe",
+   "tagline": "�޺� �Ʒ� ȣ�� ���ɰ� �Բ��ϴ� �������� ��ġ",
+   "tags": [
+    "7×7",
+    "Match3",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-22T06:56:19.019Z",
+   "thumb": "moonlit-pumpkin-swipe/thumb.jpg"
+  }
+ ]
+}
