@@ -1,7 +1,20 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:58:33.378Z",
+ "updatedAt": "2026-10-22T06:58:40.992Z",
  "games": [
+  {
+   "pid": "9f4644aae8e941d6",
+   "slug": "bullion-express",
+   "title": "Bullion Express",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.1%"
+   ],
+   "revision": 8,
+   "deployedAt": "2026-10-22T06:58:39.746Z",
+   "thumb": "bullion-express/thumb.jpg"
+  },
   {
    "pid": "79ecce4afbaf409f",
    "slug": "candy-pop-cascade",
