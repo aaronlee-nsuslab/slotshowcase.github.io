@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T07:00:10.740Z",
+ "updatedAt": "2026-10-22T07:15:57.879Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -142,8 +142,8 @@
     "Match3",
     "RTP 96.0%"
    ],
-   "revision": 16,
-   "deployedAt": "2026-10-22T06:56:19.019Z",
+   "revision": 17,
+   "deployedAt": "2026-10-22T07:15:56.940Z",
    "thumb": "moonlit-pumpkin-swipe/thumb.jpg"
   },
   {
