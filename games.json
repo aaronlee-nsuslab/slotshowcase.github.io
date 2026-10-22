@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T08:32:30.022Z",
+ "updatedAt": "2026-10-22T08:32:34.941Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -103,7 +103,7 @@
     "RTP 96.0%"
    ],
    "revision": 6,
-   "deployedAt": "2026-10-22T06:59:01.776Z",
+   "deployedAt": "2026-10-22T08:32:34.012Z",
    "thumb": "gummy-grove/thumb.jpg"
   },
   {
