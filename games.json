@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:59:02.661Z",
+ "updatedAt": "2026-10-22T06:59:10.273Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -40,6 +40,19 @@
    "revision": 6,
    "deployedAt": "2026-10-22T06:58:17.439Z",
    "thumb": "dead-ridge-outlaws/thumb.jpg"
+  },
+  {
+   "pid": "8f38b3c556634769",
+   "slug": "dynamite-gulch",
+   "title": "Dynamite Gulch",
+   "tags": [
+    "6×7",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 8,
+   "deployedAt": "2026-10-22T06:59:09.273Z",
+   "thumb": "dynamite-gulch/thumb.jpg"
   },
   {
    "pid": "fae9639deecb45a9",
