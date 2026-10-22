@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T06:57:11.506Z",
+ "updatedAt": "2026-10-22T06:57:18.651Z",
  "games": [
   {
    "pid": "f426b1224aa54b1e",
@@ -28,6 +28,19 @@
    "revision": 16,
    "deployedAt": "2026-10-22T06:56:19.019Z",
    "thumb": "moonlit-pumpkin-swipe/thumb.jpg"
+  },
+  {
+   "pid": "41fd540e1cd340f4",
+   "slug": "thunder-drum-fortune",
+   "title": "Thunder Drum Fortune",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 29,
+   "deployedAt": "2026-10-22T06:57:17.726Z",
+   "thumb": "thunder-drum-fortune/thumb.jpg"
   }
  ]
 }
