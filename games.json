@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-24T07:15:18.169Z",
+ "updatedAt": "2026-10-24T07:15:26.366Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -200,6 +200,20 @@
    "revision": 12,
    "deployedAt": "2026-10-22T14:35:46.320Z",
    "thumb": "nebula-jewels/thumb.jpg"
+  },
+  {
+   "pid": "62505ac0944e4dd5",
+   "slug": "neon-crown-spire",
+   "title": "Neon Crown Spire",
+   "tagline": "네온 탑의 칩 테이블 휠, 늘어나는 릴 세트와 SPIRE PAY 잭팟",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 13,
+   "deployedAt": "2026-10-24T07:15:25.517Z",
+   "thumb": "neon-crown-spire/thumb.jpg"
   },
   {
    "pid": "f711ae754f98463f",
