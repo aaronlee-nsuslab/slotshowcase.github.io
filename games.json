@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-24T07:15:01.902Z",
+ "updatedAt": "2026-10-24T07:15:10.097Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -40,6 +40,20 @@
    "revision": 16,
    "deployedAt": "2026-10-22T14:36:50.203Z",
    "thumb": "cellblock-riot/thumb.jpg"
+  },
+  {
+   "pid": "3b96aacc54e54474",
+   "slug": "crown-gem-vaults",
+   "title": "Crown Gem Vaults",
+   "tagline": "보석 금고 미터가 차면 터지는 색깔 와일드 프리 스핀",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 11,
+   "deployedAt": "2026-10-24T07:15:09.269Z",
+   "thumb": "crown-gem-vaults/thumb.jpg"
   },
   {
    "pid": "38553e43acc74f78",
