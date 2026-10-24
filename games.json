@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-24T07:15:42.551Z",
+ "updatedAt": "2026-10-24T07:15:50.757Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -188,6 +188,20 @@
    "revision": 11,
    "deployedAt": "2026-10-24T07:14:45.247Z",
    "thumb": "iron-horse-fortune/thumb.jpg"
+  },
+  {
+   "pid": "7c35522888e445af",
+   "slug": "jade-koi-fortune",
+   "title": "Jade Koi Fortune",
+   "tagline": "황금 잉어 와일드와 골드 심볼, 코인 픽 잭팟의 설날 행운",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 13,
+   "deployedAt": "2026-10-24T07:15:49.890Z",
+   "thumb": "jade-koi-fortune/thumb.jpg"
   },
   {
    "pid": "d1d0550e78074f7c",
