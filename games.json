@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-24T07:15:26.366Z",
+ "updatedAt": "2026-10-24T07:15:34.433Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -146,6 +146,20 @@
    "revision": 12,
    "deployedAt": "2026-10-22T14:36:30.038Z",
    "thumb": "hammer-hogs/thumb.jpg"
+  },
+  {
+   "pid": "a5f85c9562fd4014",
+   "slug": "hog-heist-bingo",
+   "title": "Hog Heist Bingo",
+   "tagline": "돼지 강도단이 채우는 빙고판과 단계별로 커지는 프리 스핀",
+   "tags": [
+    "5×5",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 14,
+   "deployedAt": "2026-10-24T07:15:33.585Z",
+   "thumb": "hog-heist-bingo/thumb.jpg"
   },
   {
    "pid": "94a98c9178fb4768",
