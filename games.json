@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-22T14:36:51.093Z",
+ "updatedAt": "2026-10-24T07:14:46.196Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -118,6 +118,20 @@
    "revision": 12,
    "deployedAt": "2026-10-22T14:36:30.038Z",
    "thumb": "hammer-hogs/thumb.jpg"
+  },
+  {
+   "pid": "94a98c9178fb4768",
+   "slug": "iron-horse-fortune",
+   "title": "Iron Horse Fortune",
+   "tagline": "금·은 기차 스캐터와 고정 와일드, 브레이크맨 보너스까지 달리는 열차 슬롯",
+   "tags": [
+    "6×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 11,
+   "deployedAt": "2026-10-24T07:14:45.247Z",
+   "thumb": "iron-horse-fortune/thumb.jpg"
   },
   {
    "pid": "d1d0550e78074f7c",
