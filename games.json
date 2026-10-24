@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-24T07:15:34.433Z",
+ "updatedAt": "2026-10-24T07:15:42.551Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -27,6 +27,20 @@
    "revision": 37,
    "deployedAt": "2026-10-22T14:35:30.261Z",
    "thumb": "candy-pop-cascade/thumb.jpg"
+  },
+  {
+   "pid": "5f8ff38e966d43ff",
+   "slug": "captain-frost-voyage",
+   "title": "Captain Frost Voyage",
+   "tagline": "펭귄 선장과 함께 5×5 보물 지도를 따라가는 얼음 항해",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 13,
+   "deployedAt": "2026-10-24T07:15:41.705Z",
+   "thumb": "captain-frost-voyage/thumb.jpg"
   },
   {
    "pid": "1543329eb59d444b",
