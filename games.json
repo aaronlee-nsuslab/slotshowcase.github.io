@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-24T07:16:06.064Z",
+ "updatedAt": "2026-10-24T07:16:20.118Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -320,7 +320,7 @@
     "RTP 96.0%"
    ],
    "revision": 13,
-   "deployedAt": "2026-10-22T14:35:59.582Z",
+   "deployedAt": "2026-10-24T07:16:19.268Z",
    "thumb": "ruby-hearts-royale/thumb.jpg"
   },
   {
