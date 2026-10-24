@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-24T07:15:10.097Z",
+ "updatedAt": "2026-10-24T07:15:18.169Z",
  "games": [
   {
    "pid": "9f4644aae8e941d6",
@@ -67,6 +67,20 @@
    "revision": 12,
    "deployedAt": "2026-10-22T14:35:52.610Z",
    "thumb": "dead-ridge-outlaws/thumb.jpg"
+  },
+  {
+   "pid": "1191a29126054f32",
+   "slug": "diamond-rail-express",
+   "title": "Diamond Rail Express",
+   "tagline": "기차 보너스와 다이아몬드 상점으로 꾸미는 나만의 프리 스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 10,
+   "deployedAt": "2026-10-24T07:15:17.300Z",
+   "thumb": "diamond-rail-express/thumb.jpg"
   },
   {
    "pid": "8f38b3c556634769",
