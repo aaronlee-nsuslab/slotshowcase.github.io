@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:10:06.474Z",
+ "updatedAt": "2026-10-29T17:10:11.608Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -456,8 +456,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 27,
-   "deployedAt": "2026-10-29T08:30:21.305Z",
+   "revision": 28,
+   "deployedAt": "2026-10-29T17:10:10.516Z",
    "firstDeployedAt": "2026-10-22T06:57:42.000Z",
    "tier": "high",
    "thumb": "golden-prize-showtime/thumb.jpg"
