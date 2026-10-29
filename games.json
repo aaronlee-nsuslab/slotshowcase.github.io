@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:11:02.577Z",
+ "updatedAt": "2026-10-29T17:11:07.592Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -633,8 +633,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 14,
-   "deployedAt": "2026-10-29T08:31:07.226Z",
+   "revision": 15,
+   "deployedAt": "2026-10-29T17:11:06.530Z",
    "firstDeployedAt": "2026-10-27T16:57:07.119Z",
    "tier": "low",
    "thumb": "lantern-drop/thumb.jpg"
