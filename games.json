@@ -1,0 +1,1621 @@
+{
+ "title": "Slot Showcase",
+ "updatedAt": "2026-10-29T08:33:37.731Z",
+ "games": [
+  {
+   "pid": "80c1d512bb9f4a18",
+   "slug": "abyssal-pressure",
+   "title": "Abyssal Pressure",
+   "tagline": "심해 압력 캡슐을 모아 상부 격실을 개방",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:22:15.933Z",
+   "firstDeployedAt": "2026-10-29T08:22:15.933Z",
+   "tier": "very-high",
+   "family": "Night Market Embers",
+   "thumb": "abyssal-pressure/thumb.jpg"
+  },
+  {
+   "pid": "3dd65a2f137e4017",
+   "slug": "astral-orrery",
+   "title": "Astral Orrery",
+   "tagline": "천문 봉인을 맞춰 관측판을 확장하는 고대 관측소",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 19,
+   "deployedAt": "2026-10-29T08:22:25.125Z",
+   "firstDeployedAt": "2026-10-29T08:22:25.125Z",
+   "tier": "high",
+   "family": "Neon Crown Spire",
+   "thumb": "astral-orrery/thumb.jpg"
+  },
+  {
+   "pid": "f8f7325cdd844479",
+   "slug": "aurora-relay",
+   "title": "Aurora Relay",
+   "tagline": "오로라 아래 썰매견 릴레이: 목숨 3개 무료 스핀, 이길 때마다 릴레이 배수가 오르는 5x3 슬롯",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:29:04.336Z",
+   "firstDeployedAt": "2026-10-27T16:55:33.331Z",
+   "tier": "low",
+   "thumb": "aurora-relay/thumb.jpg"
+  },
+  {
+   "pid": "78c1181098a24e4e",
+   "slug": "barnyard-saucer-raid",
+   "title": "Barnyard Saucer Raid",
+   "tagline": "비행접시가 농장을 습격하는 연쇄 당첨, 연쇄 횟수만큼 커지는 프리 스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 21,
+   "deployedAt": "2026-10-29T08:29:09.601Z",
+   "firstDeployedAt": "2026-10-27T08:43:36.153Z",
+   "tier": "low",
+   "thumb": "barnyard-saucer-raid/thumb.jpg"
+  },
+  {
+   "pid": "eec840d11b14405a",
+   "slug": "bookmobile-river-circuit",
+   "title": "Bookmobile River Circuit",
+   "tagline": "강을 순회하는 이동 도서관에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 17,
+   "deployedAt": "2026-10-29T08:22:33.191Z",
+   "firstDeployedAt": "2026-10-29T08:22:33.191Z",
+   "tier": "medium",
+   "family": "Diamond Rail Express",
+   "thumb": "bookmobile-river-circuit/thumb.jpg"
+  },
+  {
+   "pid": "9f4644aae8e941d6",
+   "slug": "bullion-express",
+   "title": "Bullion Express",
+   "tagline": "금괴 열차를 터는 불리온 카트 홀드 앤 스핀과 금고 코인",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.1%"
+   ],
+   "revision": 24,
+   "deployedAt": "2026-10-29T08:29:14.934Z",
+   "firstDeployedAt": "2026-10-22T06:58:41.000Z",
+   "tier": "very-high",
+   "thumb": "bullion-express/thumb.jpg"
+  },
+  {
+   "pid": "26be45aaa22747ff",
+   "slug": "canal-lock-voyagers",
+   "title": "Canal Lock Voyagers",
+   "tagline": "운하 수문을 지나는 여행선에서 이어지는 발견과 성장",
+   "tags": [
+    "6×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:22:41.396Z",
+   "firstDeployedAt": "2026-10-29T08:22:41.396Z",
+   "tier": "medium",
+   "family": "Iron Horse Fortune",
+   "thumb": "canal-lock-voyagers/thumb.jpg"
+  },
+  {
+   "pid": "79ecce4afbaf409f",
+   "slug": "candy-pop-cascade",
+   "title": "Candy Pop Cascade",
+   "tagline": "솜사탕 구름 위 6×5 스캐터 페이 텀블, 무지개 폭탄 배수 프리 스핀",
+   "tags": [
+    "6×5",
+    "Pay Anywhere",
+    "RTP 96.5%"
+   ],
+   "revision": 48,
+   "deployedAt": "2026-10-29T08:29:19.921Z",
+   "firstDeployedAt": "2026-10-22T06:57:56.000Z",
+   "tier": "medium",
+   "thumb": "candy-pop-cascade/thumb.jpg"
+  },
+  {
+   "pid": "b225e955415a49d2",
+   "slug": "canopy-climb",
+   "title": "Canopy Climb",
+   "tagline": "열대우림 메가웨이 텀블: 당첨에 참여한 릴의 덩굴 배수가 오르고 무료 스핀 동안 유지",
+   "tags": [
+    "6×7",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 12,
+   "deployedAt": "2026-10-29T08:29:24.853Z",
+   "firstDeployedAt": "2026-10-27T17:04:47.675Z",
+   "tier": "medium",
+   "thumb": "canopy-climb/thumb.jpg"
+  },
+  {
+   "pid": "5f8ff38e966d43ff",
+   "slug": "captain-frost-voyage",
+   "title": "Captain Frost Voyage",
+   "tagline": "펭귄 선장과 함께 5×5 보물 지도를 따라가는 얼음 항해",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 24,
+   "deployedAt": "2026-10-29T08:29:30.127Z",
+   "firstDeployedAt": "2026-10-24T07:15:42.000Z",
+   "tier": "medium",
+   "thumb": "captain-frost-voyage/thumb.jpg"
+  },
+  {
+   "pid": "e9b8e9d200264cb8",
+   "slug": "carnival-minislot",
+   "title": "Carnival Mini-Slot",
+   "tagline": "밤의 서커스 5x4 30라인: 황금 티켓 3장으로 무대 위 3릴 미니 슬롯 5회, 같은 공연 3개·2개 일치 상금",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 14,
+   "deployedAt": "2026-10-29T08:29:35.053Z",
+   "firstDeployedAt": "2026-10-27T18:29:11.615Z",
+   "tier": "low",
+   "thumb": "carnival-minislot/thumb.jpg"
+  },
+  {
+   "pid": "1543329eb59d444b",
+   "slug": "cellblock-riot",
+   "title": "Cellblock Riot",
+   "tagline": "한밤 교도소 장난 폭동, 스플릿 와일드·볼트 커터와 감방이 열리는 프리 스핀",
+   "tags": [
+    "5×5",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 26,
+   "deployedAt": "2026-10-29T08:29:40.389Z",
+   "firstDeployedAt": "2026-10-22T06:59:29.000Z",
+   "tier": "very-high",
+   "thumb": "cellblock-riot/thumb.jpg"
+  },
+  {
+   "pid": "14bf34b510764183",
+   "slug": "cliffside-ceramic-ascent",
+   "title": "Cliffside Ceramic Ascent",
+   "tagline": "절벽 도자기 답사소의 상승에서 이어지는 발견과 성장",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:22:49.517Z",
+   "firstDeployedAt": "2026-10-29T08:22:49.517Z",
+   "tier": "medium",
+   "family": "Night Market Embers",
+   "thumb": "cliffside-ceramic-ascent/thumb.jpg"
+  },
+  {
+   "pid": "3b96aacc54e54474",
+   "slug": "crown-gem-vaults",
+   "title": "Crown Gem Vaults",
+   "tagline": "보석 금고 미터가 차면 터지는 색깔 와일드 프리 스핀",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 21,
+   "deployedAt": "2026-10-29T08:29:45.565Z",
+   "firstDeployedAt": "2026-10-24T07:15:10.000Z",
+   "tier": "high",
+   "thumb": "crown-gem-vaults/thumb.jpg"
+  },
+  {
+   "pid": "38553e43acc74f78",
+   "slug": "dead-ridge-outlaws",
+   "title": "Dead Ridge Outlaws",
+   "tagline": "무법자 능선의 결투 와일드 배수와 세 가지 보너스 프리 스핀",
+   "tags": [
+    "5×5",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 25,
+   "deployedAt": "2026-10-29T08:29:50.713Z",
+   "firstDeployedAt": "2026-10-22T06:58:18.000Z",
+   "tier": "very-high",
+   "thumb": "dead-ridge-outlaws/thumb.jpg"
+  },
+  {
+   "pid": "9760e62e5de94cce",
+   "slug": "deep-dig",
+   "title": "Deep Dig",
+   "tagline": "금광 발굴 5x4 1024 웨이: 드릴 3개로 열리는 발굴판, 영역 안의 금만 지급되고 드릴이 영역을 넓힘",
+   "tags": [
+    "5×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:29:55.674Z",
+   "firstDeployedAt": "2026-10-27T18:23:37.463Z",
+   "tier": "low",
+   "thumb": "deep-dig/thumb.jpg"
+  },
+  {
+   "pid": "1191a29126054f32",
+   "slug": "diamond-rail-express",
+   "title": "Diamond Rail Express",
+   "tagline": "기차 보너스와 다이아몬드 상점으로 꾸미는 나만의 프리 스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 21,
+   "deployedAt": "2026-10-29T08:30:00.887Z",
+   "firstDeployedAt": "2026-10-24T07:15:18.000Z",
+   "tier": "high",
+   "thumb": "diamond-rail-express/thumb.jpg"
+  },
+  {
+   "pid": "348c7714aa8847eb",
+   "slug": "domino-route-rally",
+   "title": "Domino Route Rally",
+   "tagline": "여행 도미노가 이어질 때마다 오른쪽으로 펼쳐지는 놀이판",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 11,
+   "deployedAt": "2026-10-29T08:22:58.643Z",
+   "firstDeployedAt": "2026-10-29T08:22:58.643Z",
+   "tier": "medium",
+   "family": "Railway Infinity",
+   "thumb": "domino-route-rally/thumb.jpg"
+  },
+  {
+   "pid": "367c88cc594e4984",
+   "slug": "dye-delta-voyage",
+   "title": "Dye Delta Voyage",
+   "tagline": "염색 삼각주의 색채 여행에서 이어지는 발견과 성장",
+   "tags": [
+    "7×7",
+    "Cluster",
+    "RTP 96.0%"
+   ],
+   "revision": 18,
+   "deployedAt": "2026-10-29T08:23:05.818Z",
+   "firstDeployedAt": "2026-10-29T08:23:05.818Z",
+   "tier": "medium",
+   "family": "Gummy Grove",
+   "thumb": "dye-delta-voyage/thumb.jpg"
+  },
+  {
+   "pid": "8f38b3c556634769",
+   "slug": "dynamite-gulch",
+   "title": "Dynamite Gulch",
+   "tagline": "서부 금광 최대 117,649 웨이즈, 광차 릴과 끝없이 오르는 프리 스핀 배수",
+   "tags": [
+    "6×7",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 23,
+   "deployedAt": "2026-10-29T08:30:06.037Z",
+   "firstDeployedAt": "2026-10-22T06:59:10.000Z",
+   "tier": "high",
+   "thumb": "dynamite-gulch/thumb.jpg"
+  },
+  {
+   "pid": "54f87dca0e1149b0",
+   "slug": "echo-cavern-choir",
+   "title": "Echo Cavern Choir",
+   "tagline": "노래 동굴의 메아리 채집에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:23:14.123Z",
+   "firstDeployedAt": "2026-10-29T08:23:14.123Z",
+   "tier": "medium",
+   "family": "Firefly Jar",
+   "thumb": "echo-cavern-choir/thumb.jpg"
+  },
+  {
+   "pid": "e244d415e2894280",
+   "slug": "eclipse-conductor",
+   "title": "Eclipse Conductor",
+   "tagline": "일식의 지휘자가 매 스핀 공명 단계를 높임",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 17,
+   "deployedAt": "2026-10-29T08:23:22.172Z",
+   "firstDeployedAt": "2026-10-29T08:23:22.172Z",
+   "tier": "very-high",
+   "family": "Nile Sovereign",
+   "thumb": "eclipse-conductor/thumb.jpg"
+  },
+  {
+   "pid": "b0292c5cc4144127",
+   "slug": "faultline-resonance",
+   "title": "Faultline Resonance",
+   "tagline": "반복 붕괴한 지층 칸에 공명 배수가 축적",
+   "tags": [
+    "7×7",
+    "Cluster",
+    "RTP 96.0%"
+   ],
+   "revision": 17,
+   "deployedAt": "2026-10-29T08:23:30.236Z",
+   "firstDeployedAt": "2026-10-29T08:23:30.236Z",
+   "tier": "very-high",
+   "family": "Gummy Grove",
+   "thumb": "faultline-resonance/thumb.jpg"
+  },
+  {
+   "pid": "e020389a78824518",
+   "slug": "festival-costume-trunk",
+   "title": "Festival Costume Trunk",
+   "tagline": "순회 의상단의 여행 트렁크에서 이어지는 발견과 성장",
+   "tags": [
+    "7×7",
+    "Match3",
+    "RTP 96.0%"
+   ],
+   "revision": 23,
+   "deployedAt": "2026-10-29T08:23:37.567Z",
+   "firstDeployedAt": "2026-10-29T08:23:37.567Z",
+   "tier": "medium",
+   "family": "Moonlit Pumpkin Swipe",
+   "thumb": "festival-costume-trunk/thumb.jpg"
+  },
+  {
+   "pid": "9b1261b6249e4444",
+   "slug": "firefly-jar",
+   "title": "Firefly Jar",
+   "tagline": "반딧불 연못 5x3 243 웨이: 유리병 3개로 반딧불 와일드·빛 배수를 모은 뒤 결산 2스핀에 한꺼번에 사용",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 14,
+   "deployedAt": "2026-10-29T08:30:10.978Z",
+   "firstDeployedAt": "2026-10-27T18:27:03.078Z",
+   "tier": "low",
+   "thumb": "firefly-jar/thumb.jpg"
+  },
+  {
+   "pid": "d587223de848484e",
+   "slug": "fossil-dominion",
+   "title": "Fossil Dominion",
+   "tagline": "화석 봉인을 열고 고대 발굴층의 높이를 선택",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 24,
+   "deployedAt": "2026-10-29T08:23:54.918Z",
+   "firstDeployedAt": "2026-10-29T08:23:54.918Z",
+   "tier": "high",
+   "family": "Thunder Drum Fortune",
+   "thumb": "fossil-dominion/thumb.jpg"
+  },
+  {
+   "pid": "c44bc6b93a8b4b25",
+   "slug": "gilded-rose-muse",
+   "title": "Gilded Rose Muse",
+   "tagline": "릴마다 열리는 미스터리 스택과 장미 9개로 여는 신전의 프리 스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 24,
+   "deployedAt": "2026-10-29T08:30:16.253Z",
+   "firstDeployedAt": "2026-10-27T08:45:20.830Z",
+   "tier": "high",
+   "thumb": "gilded-rose-muse/thumb.jpg"
+  },
+  {
+   "pid": "fae9639deecb45a9",
+   "slug": "golden-prize-showtime",
+   "title": "Golden Prize Showtime",
+   "tagline": "TV 게임쇼 무대의 프라이즈 휠, 잭팟과 코인 와일드 프리 스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 27,
+   "deployedAt": "2026-10-29T08:30:21.305Z",
+   "firstDeployedAt": "2026-10-22T06:57:42.000Z",
+   "tier": "high",
+   "thumb": "golden-prize-showtime/thumb.jpg"
+  },
+  {
+   "pid": "f426b1224aa54b1e",
+   "slug": "gumdrop-swipe-park",
+   "title": "Gumdrop Swipe Park",
+   "tagline": "캔디 놀이공원 7×7 스와이프 매치, 로켓·폭탄·배수 캔디와 아이스 보너스",
+   "tags": [
+    "7×7",
+    "Match3",
+    "RTP 96.6%"
+   ],
+   "revision": 28,
+   "deployedAt": "2026-10-29T08:30:26.375Z",
+   "firstDeployedAt": "2026-10-22T06:57:11.000Z",
+   "tier": "low",
+   "thumb": "gumdrop-swipe-park/thumb.jpg"
+  },
+  {
+   "pid": "7b3c05b031464b28",
+   "slug": "gummy-grove",
+   "title": "Gummy Grove",
+   "tagline": "숲속 캔디 마을 7×7 클러스터, 칸 배수가 x128까지 오르는 텀블",
+   "tags": [
+    "7×7",
+    "Cluster",
+    "RTP 96.0%"
+   ],
+   "revision": 18,
+   "deployedAt": "2026-10-29T08:30:31.519Z",
+   "firstDeployedAt": "2026-10-22T06:59:03.000Z",
+   "tier": "high",
+   "thumb": "gummy-grove/thumb.jpg"
+  },
+  {
+   "pid": "fe49aede092c4bd2",
+   "slug": "hammer-hogs",
+   "title": "Hammer Hogs",
+   "tagline": "아기 돼지 건축가의 집 짓기 프리 스핀, 짚·나무·벽돌로 승격되는 칸",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 23,
+   "deployedAt": "2026-10-29T08:30:36.741Z",
+   "firstDeployedAt": "2026-10-22T06:58:56.000Z",
+   "tier": "high",
+   "thumb": "hammer-hogs/thumb.jpg"
+  },
+  {
+   "pid": "a5f85c9562fd4014",
+   "slug": "hog-heist-bingo",
+   "title": "Hog Heist Bingo",
+   "tagline": "돼지 강도단이 채우는 빙고판과 단계별로 커지는 프리 스핀",
+   "tags": [
+    "5×5",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 25,
+   "deployedAt": "2026-10-29T08:30:41.818Z",
+   "firstDeployedAt": "2026-10-24T07:15:34.000Z",
+   "tier": "medium",
+   "thumb": "hog-heist-bingo/thumb.jpg"
+  },
+  {
+   "pid": "943ccaaeb9754a59",
+   "slug": "honeycomb-royal",
+   "title": "Honeycomb Royal",
+   "tagline": "황금 벌집 왕궁 6x5 페이 애니웨어 텀블: 무료 스핀의 로열젤리가 벌집 칸을 밀랍·꿀·로열로 올리고 끝에 칸마다 상금",
+   "tags": [
+    "6×5",
+    "Pay Anywhere",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:30:46.804Z",
+   "firstDeployedAt": "2026-10-27T18:19:09.923Z",
+   "tier": "low",
+   "thumb": "honeycomb-royal/thumb.jpg"
+  },
+  {
+   "pid": "94a98c9178fb4768",
+   "slug": "iron-horse-fortune",
+   "title": "Iron Horse Fortune",
+   "tagline": "금·은 기차 스캐터와 고정 와일드, 브레이크맨 보너스까지 달리는 열차 슬롯",
+   "tags": [
+    "6×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 25,
+   "deployedAt": "2026-10-29T08:30:52.069Z",
+   "firstDeployedAt": "2026-10-24T07:14:46.000Z",
+   "tier": "high",
+   "thumb": "iron-horse-fortune/thumb.jpg"
+  },
+  {
+   "pid": "7c35522888e445af",
+   "slug": "jade-koi-fortune",
+   "title": "Jade Koi Fortune",
+   "tagline": "황금 잉어 와일드와 골드 심볼, 코인 픽 잭팟의 설날 행운",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 25,
+   "deployedAt": "2026-10-29T08:30:57.164Z",
+   "firstDeployedAt": "2026-10-24T07:15:51.000Z",
+   "tier": "high",
+   "thumb": "jade-koi-fortune/thumb.jpg"
+  },
+  {
+   "pid": "1d240b5cc8474773",
+   "slug": "keepers-archive-5000",
+   "title": "Keeper's Archive 5000",
+   "tagline": "등대지기 기록실의 6x5 클러스터 텀블, 조위계 배수 오브를 프리 스핀 내내 모아 최대 x5000",
+   "tags": [
+    "6×5",
+    "Cluster",
+    "RTP 96.0%"
+   ],
+   "revision": 32,
+   "deployedAt": "2026-10-29T08:31:02.224Z",
+   "firstDeployedAt": "2026-10-27T15:01:57.117Z",
+   "thumb": "keepers-archive-5000/thumb.jpg"
+  },
+  {
+   "pid": "9b3e606af2af42be",
+   "slug": "kite-coast-crossing",
+   "title": "Kite Coast Crossing",
+   "tagline": "절벽 해안의 연 항해에서 이어지는 발견과 성장",
+   "tags": [
+    "6×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 17,
+   "deployedAt": "2026-10-29T08:24:03.979Z",
+   "firstDeployedAt": "2026-10-29T08:24:03.979Z",
+   "tier": "medium",
+   "family": "Thunderhide Savanna",
+   "thumb": "kite-coast-crossing/thumb.jpg"
+  },
+  {
+   "pid": "2ed9db0f93ad44d3",
+   "slug": "labyrinth-caravan",
+   "title": "Labyrinth Caravan",
+   "tagline": "길잡이 인장을 모아 지하 미궁의 갈림길을 선택",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 17,
+   "deployedAt": "2026-10-29T08:24:12.156Z",
+   "firstDeployedAt": "2026-10-29T08:24:12.156Z",
+   "tier": "high",
+   "family": "Captain Frost Voyage",
+   "thumb": "labyrinth-caravan/thumb.jpg"
+  },
+  {
+   "pid": "78a57af911524176",
+   "slug": "lantern-drop",
+   "title": "Lantern Drop",
+   "tagline": "풍등 축제의 5x4 슬롯: 풍등 3~5개가 핀 보드에 떨어져 상금·추가 공·x2 바구니를 모으는 공 낙하 보너스",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 14,
+   "deployedAt": "2026-10-29T08:31:07.226Z",
+   "firstDeployedAt": "2026-10-27T16:57:07.119Z",
+   "tier": "low",
+   "thumb": "lantern-drop/thumb.jpg"
+  },
+  {
+   "pid": "dba126f976ed439b",
+   "slug": "lantern-ferry-fair",
+   "title": "Lantern Ferry Fair",
+   "tagline": "섬을 잇는 등불 나룻배에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:24:20.319Z",
+   "firstDeployedAt": "2026-10-29T08:24:20.319Z",
+   "tier": "medium",
+   "family": "Golden Prize Showtime",
+   "thumb": "lantern-ferry-fair/thumb.jpg"
+  },
+  {
+   "pid": "d1d0550e78074f7c",
+   "slug": "lunker-lagoon",
+   "title": "Lunker Lagoon",
+   "tagline": "노을 호숫가 낚시 프리 스핀, 곰 낚시꾼이 물고기 상금을 낚아 올린다",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.7%"
+   ],
+   "revision": 24,
+   "deployedAt": "2026-10-29T08:31:12.522Z",
+   "firstDeployedAt": "2026-10-22T06:58:48.000Z",
+   "tier": "high",
+   "thumb": "lunker-lagoon/thumb.jpg"
+  },
+  {
+   "pid": "1994d60090ee4dd4",
+   "slug": "marble-run-expedition",
+   "title": "Marble Run Expedition",
+   "tagline": "여행용 핀보드를 따라 구슬이 내려가는 알록달록 탐험",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 11,
+   "deployedAt": "2026-10-29T08:24:29.309Z",
+   "firstDeployedAt": "2026-10-29T08:24:29.309Z",
+   "tier": "medium",
+   "family": "Lantern Drop",
+   "thumb": "marble-run-expedition/thumb.jpg"
+  },
+  {
+   "pid": "ae5a8a1ecfb3474d",
+   "slug": "migration-field-journal",
+   "title": "Migration Field Journal",
+   "tagline": "철새 기록단의 이동 관찰일지에서 이어지는 발견과 성장",
+   "tags": [
+    "5×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:24:37.673Z",
+   "firstDeployedAt": "2026-10-29T08:24:37.673Z",
+   "tier": "medium",
+   "family": "Prairie Gold Thunder",
+   "thumb": "migration-field-journal/thumb.jpg"
+  },
+  {
+   "pid": "f7d322063ecf4525",
+   "slug": "moonlit-pumpkin-swipe",
+   "title": "Moonlit Pumpkin Swipe",
+   "tagline": "달빛 아래 호박 유령과 함께하는 스와이프 매치",
+   "tags": [
+    "7×7",
+    "Match3",
+    "RTP 96.0%"
+   ],
+   "revision": 39,
+   "deployedAt": "2026-10-29T08:31:17.691Z",
+   "firstDeployedAt": "2026-10-22T06:56:20.000Z",
+   "tier": "low",
+   "thumb": "moonlit-pumpkin-swipe/thumb.jpg"
+  },
+  {
+   "pid": "59ff888de51543e2",
+   "slug": "mosaic-cartographers",
+   "title": "Mosaic Cartographers",
+   "tagline": "모자이크 좌표를 새겨 잃어버린 지도 경로를 완성",
+   "tags": [
+    "5×5",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:24:46.803Z",
+   "firstDeployedAt": "2026-10-29T08:24:46.803Z",
+   "tier": "high",
+   "family": "Hog Heist Bingo",
+   "thumb": "mosaic-cartographers/thumb.jpg"
+  },
+  {
+   "pid": "3b1ab6cac1c548b7",
+   "slug": "nebula-jewels",
+   "title": "Nebula Jewels",
+   "tagline": "우주 관측 갑판의 양방향 보석 라인, 확장·고정 와일드 리스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 27,
+   "deployedAt": "2026-10-29T08:31:22.660Z",
+   "firstDeployedAt": "2026-10-22T06:58:11.000Z",
+   "tier": "low",
+   "thumb": "nebula-jewels/thumb.jpg"
+  },
+  {
+   "pid": "62505ac0944e4dd5",
+   "slug": "neon-crown-spire",
+   "title": "Neon Crown Spire",
+   "tagline": "네온 탑의 칩 테이블 휠, 늘어나는 릴 세트와 SPIRE PAY 잭팟",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 26,
+   "deployedAt": "2026-10-29T08:31:27.876Z",
+   "firstDeployedAt": "2026-10-24T07:15:26.000Z",
+   "tier": "medium",
+   "thumb": "neon-crown-spire/thumb.jpg"
+  },
+  {
+   "pid": "f711ae754f98463f",
+   "slug": "night-market-embers",
+   "title": "Night Market Embers",
+   "tagline": "네온 야시장의 등불 와일드, 직접 고르는 프리 스핀과 홀드 앤 스핀",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 23,
+   "deployedAt": "2026-10-29T08:31:32.963Z",
+   "firstDeployedAt": "2026-10-22T06:58:33.000Z",
+   "tier": "high",
+   "thumb": "night-market-embers/thumb.jpg"
+  },
+  {
+   "pid": "9a164cc4a4264a33",
+   "slug": "nile-sovereign",
+   "title": "Nile Sovereign",
+   "tagline": "여왕 와일드 2배, 스핑크스 보물 상자 픽과 최대 50배 프리 스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 28,
+   "deployedAt": "2026-10-29T08:31:38.157Z",
+   "firstDeployedAt": "2026-10-22T06:57:35.000Z",
+   "tier": "high",
+   "thumb": "nile-sovereign/thumb.jpg"
+  },
+  {
+   "pid": "199b2eedc49b4de8",
+   "slug": "nomad-instrument-cases",
+   "title": "Nomad Instrument Cases",
+   "tagline": "유랑 악기단의 순회 연습길에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:24:55.845Z",
+   "firstDeployedAt": "2026-10-29T08:24:55.845Z",
+   "tier": "medium",
+   "family": "Jade Koi Fortune",
+   "thumb": "nomad-instrument-cases/thumb.jpg"
+  },
+  {
+   "pid": "e9ee00a70be04782",
+   "slug": "oathbound-colossi",
+   "title": "Oathbound Colossi",
+   "tagline": "고대 거상의 대치와 인장 수집 뒤 최종 심판",
+   "tags": [
+    "5×5",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 18,
+   "deployedAt": "2026-10-29T08:25:05.114Z",
+   "firstDeployedAt": "2026-10-29T08:25:05.114Z",
+   "tier": "high",
+   "family": "Dead Ridge Outlaws",
+   "thumb": "oathbound-colossi/thumb.jpg"
+  },
+  {
+   "pid": "d0c3d2a7557e410c",
+   "slug": "obsidian-aqueduct",
+   "title": "Obsidian Aqueduct",
+   "tagline": "당첨된 수로의 수위가 올라 릴 배수를 합산",
+   "tags": [
+    "6×7",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 14,
+   "deployedAt": "2026-10-29T08:25:14.046Z",
+   "firstDeployedAt": "2026-10-29T08:25:14.046Z",
+   "tier": "high",
+   "family": "Canopy Climb",
+   "thumb": "obsidian-aqueduct/thumb.jpg"
+  },
+  {
+   "pid": "35b0524ef3714959",
+   "slug": "orbit-garden-1024",
+   "title": "Orbit Garden 1024",
+   "tagline": "궤도 온실의 6x6 클러스터 텀블, 당첨 칸이 두 배씩 쌓여 프리 스핀에서 최대 x1024 칸 배수",
+   "tags": [
+    "6×6",
+    "Cluster",
+    "RTP 96.0%"
+   ],
+   "revision": 22,
+   "deployedAt": "2026-10-29T08:31:43.110Z",
+   "firstDeployedAt": "2026-10-27T15:01:49.363Z",
+   "thumb": "orbit-garden-1024/thumb.jpg"
+  },
+  {
+   "pid": "f422d64a15e549fb",
+   "slug": "orchard-survey-picnic",
+   "title": "Orchard Survey Picnic",
+   "tagline": "과수원 조사원의 수확 돗자리에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 18,
+   "deployedAt": "2026-10-29T08:25:21.327Z",
+   "firstDeployedAt": "2026-10-29T08:25:21.327Z",
+   "tier": "medium",
+   "family": "Tomb Keeper Gold",
+   "thumb": "orchard-survey-picnic/thumb.jpg"
+  },
+  {
+   "pid": "77fb74fd914242ea",
+   "slug": "parasol-drift-rescue",
+   "title": "Parasol Drift Rescue",
+   "tagline": "공중 구조대가 바람에 떠도는 양산을 모으는 여행",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.7%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:25:30.414Z",
+   "firstDeployedAt": "2026-10-29T08:25:30.414Z",
+   "tier": "medium",
+   "family": "Lunker Lagoon",
+   "thumb": "parasol-drift-rescue/thumb.jpg"
+  },
+  {
+   "pid": "ace4f1164b1b4c74",
+   "slug": "patchwork-pilgrim-lodge",
+   "title": "Patchwork Pilgrim Lodge",
+   "tagline": "여행자의 조각보 숙소에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 19,
+   "deployedAt": "2026-10-29T08:25:38.685Z",
+   "firstDeployedAt": "2026-10-29T08:25:38.685Z",
+   "tier": "medium",
+   "family": "Ruby Hearts Royale",
+   "thumb": "patchwork-pilgrim-lodge/thumb.jpg"
+  },
+  {
+   "pid": "3ea9182201af4c5e",
+   "slug": "pearl-dragon-whirl",
+   "title": "Pearl Dragon Whirl",
+   "tagline": "용 사원 휠이 여는 세 가지 프리 스핀과 세 보드 동시 스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 23,
+   "deployedAt": "2026-10-29T08:31:48.311Z",
+   "firstDeployedAt": "2026-10-24T07:15:02.000Z",
+   "tier": "high",
+   "thumb": "pearl-dragon-whirl/thumb.jpg"
+  },
+  {
+   "pid": "bb49b2eacc504bb7",
+   "slug": "pebble-path-postcards",
+   "title": "Pebble Path Postcards",
+   "tagline": "조약돌 길의 엽서 여행에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:25:46.756Z",
+   "firstDeployedAt": "2026-10-29T08:25:46.756Z",
+   "tier": "medium",
+   "family": "Temple Mask Tumble",
+   "thumb": "pebble-path-postcards/thumb.jpg"
+  },
+  {
+   "pid": "dcd796833f9c47c1",
+   "slug": "perfumer-dune-passage",
+   "title": "Perfumer Dune Passage",
+   "tagline": "모래길 조향사의 향기 여행에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 17,
+   "deployedAt": "2026-10-29T08:25:54.974Z",
+   "firstDeployedAt": "2026-10-29T08:25:54.974Z",
+   "tier": "medium",
+   "family": "Nile Sovereign",
+   "thumb": "perfumer-dune-passage/thumb.jpg"
+  },
+  {
+   "pid": "c5e4bcdb8ff74c53",
+   "slug": "phantom-courier",
+   "title": "Phantom Courier",
+   "tagline": "유령 배달부가 값이 붙은 잔향 소포를 수거",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.7%"
+   ],
+   "revision": 21,
+   "deployedAt": "2026-10-29T08:26:03.060Z",
+   "firstDeployedAt": "2026-10-29T08:26:03.060Z",
+   "tier": "very-high",
+   "family": "Lunker Lagoon",
+   "thumb": "phantom-courier/thumb.jpg"
+  },
+  {
+   "pid": "6e6ae33b802e4cd5",
+   "slug": "plasma-mycelium",
+   "title": "Plasma Mycelium",
+   "tagline": "인접 포자망이 연결될 때 보관 값이 함께 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 19,
+   "deployedAt": "2026-10-29T08:26:11.316Z",
+   "firstDeployedAt": "2026-10-29T08:26:11.316Z",
+   "tier": "very-high",
+   "family": "Ruby Hearts Royale",
+   "thumb": "plasma-mycelium/thumb.jpg"
+  },
+  {
+   "pid": "9e9120bcc5d34f30",
+   "slug": "prairie-gold-thunder",
+   "title": "Prairie Gold Thunder",
+   "tagline": "대평원 1024 웨이즈, 골드 보너스 앤티로 여는 배수 와일드와 황금 들소",
+   "tags": [
+    "5×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 67,
+   "deployedAt": "2026-10-29T08:31:53.720Z",
+   "firstDeployedAt": "2026-10-22T06:59:20.000Z",
+   "tier": "high",
+   "thumb": "prairie-gold-thunder/thumb.jpg"
+  },
+  {
+   "pid": "474be810f6e54c1d",
+   "slug": "prism-drop",
+   "title": "Prism Drop",
+   "tagline": "프리즘 빛 연구실 6x5 페이 애니웨어 텀블: 렌즈 4개로 빛 공을 떨어뜨려 무료 스핀 수와 시작 배수를 만드는 공 낙하 보너스",
+   "tags": [
+    "6×5",
+    "Pay Anywhere",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:31:58.305Z",
+   "firstDeployedAt": "2026-10-27T18:30:58.026Z",
+   "tier": "low",
+   "thumb": "prism-drop/thumb.jpg"
+  },
+  {
+   "pid": "1d882ffa1ccf4607",
+   "slug": "puppet-wagon-detour",
+   "title": "Puppet Wagon Detour",
+   "tagline": "천 인형 순회단의 우회 여행에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 14,
+   "deployedAt": "2026-10-29T08:26:20.490Z",
+   "firstDeployedAt": "2026-10-29T08:26:20.490Z",
+   "tier": "medium",
+   "family": "Barnyard Saucer Raid",
+   "thumb": "puppet-wagon-detour/thumb.jpg"
+  },
+  {
+   "pid": "de57e378f75640a1",
+   "slug": "railway-infinity",
+   "title": "Railway Infinity",
+   "tagline": "협곡 철도 웨이 슬롯: 당첨이 마지막 릴에 닿을 때마다 선로 릴이 붙어 최대 9릴·19,683 웨이까지 늘어남",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 18,
+   "deployedAt": "2026-10-29T08:32:02.474Z",
+   "firstDeployedAt": "2026-10-27T17:15:49.101Z",
+   "tier": "low",
+   "thumb": "railway-infinity/thumb.jpg"
+  },
+  {
+   "pid": "56cb24b1d48f428d",
+   "slug": "reef-survey-camp",
+   "title": "Reef Survey Camp",
+   "tagline": "산호초 관측 캠프에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:26:28.459Z",
+   "firstDeployedAt": "2026-10-29T08:26:28.459Z",
+   "tier": "medium",
+   "family": "Aurora Relay",
+   "thumb": "reef-survey-camp/thumb.jpg"
+  },
+  {
+   "pid": "edab63ff7aea461a",
+   "slug": "ribbon-bridge-ramble",
+   "title": "Ribbon Bridge Ramble",
+   "tagline": "리본 다리를 잇는 산책 여행에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:26:35.605Z",
+   "firstDeployedAt": "2026-10-29T08:26:35.605Z",
+   "tier": "medium",
+   "family": "Nebula Jewels",
+   "thumb": "ribbon-bridge-ramble/thumb.jpg"
+  },
+  {
+   "pid": "585b315ff3ec4622",
+   "slug": "ruby-hearts-royale",
+   "title": "Ruby Hearts Royale",
+   "tagline": "펜트하우스 라운지의 루비 하트 링크 홀드 앤 스핀과 잭팟",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 25,
+   "deployedAt": "2026-10-29T08:32:07.780Z",
+   "firstDeployedAt": "2026-10-22T06:58:26.000Z",
+   "tier": "high",
+   "thumb": "ruby-hearts-royale/thumb.jpg"
+  },
+  {
+   "pid": "4489020ac7554f60",
+   "slug": "sailweaver-passage",
+   "title": "Sailweaver Passage",
+   "tagline": "돛 직조사의 항로에서 이어지는 발견과 성장",
+   "tags": [
+    "6×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:26:42.735Z",
+   "firstDeployedAt": "2026-10-29T08:26:42.735Z",
+   "tier": "medium",
+   "family": "Storm Anvil",
+   "thumb": "sailweaver-passage/thumb.jpg"
+  },
+  {
+   "pid": "a90726f14b194f3a",
+   "slug": "saltpan-sample-safari",
+   "title": "Saltpan Sample Safari",
+   "tagline": "채집 틀이 넓어지며 드러나는 소금 평원의 결정 표본",
+   "tags": [
+    "5×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 14,
+   "deployedAt": "2026-10-29T08:26:49.882Z",
+   "firstDeployedAt": "2026-10-29T08:26:49.882Z",
+   "tier": "medium",
+   "family": "Deep Dig",
+   "thumb": "saltpan-sample-safari/thumb.jpg"
+  },
+  {
+   "pid": "3a148c527e2f45e2",
+   "slug": "seashell-sorting-safari",
+   "title": "Seashell Sorting Safari",
+   "tagline": "조개 표본을 맞추는 해안 답사에서 이어지는 발견과 성장",
+   "tags": [
+    "7×7",
+    "Match3",
+    "RTP 96.6%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:26:58.152Z",
+   "firstDeployedAt": "2026-10-29T08:26:58.152Z",
+   "tier": "medium",
+   "family": "Gumdrop Swipe Park",
+   "thumb": "seashell-sorting-safari/thumb.jpg"
+  },
+  {
+   "pid": "1416d5f535784381",
+   "slug": "silhouette-story-caravan",
+   "title": "Silhouette Story Caravan",
+   "tagline": "그림자 이야기 순회단에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:27:06.261Z",
+   "firstDeployedAt": "2026-10-29T08:27:06.261Z",
+   "tier": "medium",
+   "family": "Gilded Rose Muse",
+   "thumb": "silhouette-story-caravan/thumb.jpg"
+  },
+  {
+   "pid": "a3fc2720e25946e3",
+   "slug": "silk-fan-promenade",
+   "title": "Silk Fan Promenade",
+   "tagline": "비단 부채 춤의 순회길에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:27:14.380Z",
+   "firstDeployedAt": "2026-10-29T08:27:14.380Z",
+   "tier": "medium",
+   "family": "Pearl Dragon Whirl",
+   "thumb": "silk-fan-promenade/thumb.jpg"
+  },
+  {
+   "pid": "7adb044c755749c5",
+   "slug": "soap-stack-studio",
+   "title": "Soap Stack Studio",
+   "tagline": "작은 비누 완성마다 차곡차곡 올라가는 공방 선반",
+   "tags": [
+    "6×7",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 11,
+   "deployedAt": "2026-10-29T08:27:22.418Z",
+   "firstDeployedAt": "2026-10-29T08:27:22.418Z",
+   "tier": "low",
+   "family": "Canopy Climb",
+   "thumb": "soap-stack-studio/thumb.jpg"
+  },
+  {
+   "pid": "6b2cbac9eeeb457d",
+   "slug": "spice-pass-porters",
+   "title": "Spice Pass Porters",
+   "tagline": "향료 고개를 넘는 짐꾼에서 이어지는 발견과 성장",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 18,
+   "deployedAt": "2026-10-29T08:27:30.655Z",
+   "firstDeployedAt": "2026-10-29T08:27:30.655Z",
+   "tier": "medium",
+   "family": "Windup Parade",
+   "thumb": "spice-pass-porters/thumb.jpg"
+  },
+  {
+   "pid": "e2681cb8acc24b95",
+   "slug": "spore-kingdom",
+   "title": "Spore Kingdom",
+   "tagline": "빛나는 버섯 왕국의 7x7 클러스터 텀블: 무료 스핀에서 포자를 모으면 작은 버섯이 큰 버섯으로 자라남",
+   "tags": [
+    "7×7",
+    "Cluster",
+    "RTP 96.0%"
+   ],
+   "revision": 15,
+   "deployedAt": "2026-10-29T08:32:12.689Z",
+   "firstDeployedAt": "2026-10-27T17:19:08.878Z",
+   "tier": "low",
+   "thumb": "spore-kingdom/thumb.jpg"
+  },
+  {
+   "pid": "958346ad6f134666",
+   "slug": "star-atlas",
+   "title": "Star Atlas",
+   "tagline": "별자리 관측소 5x3 슬롯: 무료 스핀이 별자리 판 2개로 시작해 별을 모을 때마다 판이 늘어나고 가운데 릴을 공유",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 14,
+   "deployedAt": "2026-10-29T08:32:17.901Z",
+   "firstDeployedAt": "2026-10-27T17:50:45.524Z",
+   "tier": "low",
+   "thumb": "star-atlas/thumb.jpg"
+  },
+  {
+   "pid": "8f3d440f733b439a",
+   "slug": "storm-anvil",
+   "title": "Storm Anvil",
+   "tagline": "폭풍 대장간의 6x4 4096 웨이: 망치가 떨어진 릴마다 배수가 오르고 무료 스핀 내내 유지되는 릴 배수 슬롯",
+   "tags": [
+    "6×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 13,
+   "deployedAt": "2026-10-29T08:32:23.019Z",
+   "firstDeployedAt": "2026-10-27T17:04:32.485Z",
+   "tier": "low",
+   "thumb": "storm-anvil/thumb.jpg"
+  },
+  {
+   "pid": "267907ce1c314917",
+   "slug": "summit-shelter-crew",
+   "title": "Summit Shelter Crew",
+   "tagline": "고갯길 쉼터를 세우는 등반대에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 17,
+   "deployedAt": "2026-10-29T08:27:38.894Z",
+   "firstDeployedAt": "2026-10-29T08:27:38.894Z",
+   "tier": "medium",
+   "family": "Hammer Hogs",
+   "thumb": "summit-shelter-crew/thumb.jpg"
+  },
+  {
+   "pid": "d59a967b8b9f4165",
+   "slug": "sunstone-tome",
+   "title": "Sunstone Tome",
+   "tagline": "횃불 무덤의 선스톤 서, 확장 심볼이 10라인을 채우는 프리 스핀",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.2%"
+   ],
+   "revision": 22,
+   "deployedAt": "2026-10-29T08:32:28.307Z",
+   "firstDeployedAt": "2026-10-22T06:58:03.000Z",
+   "tier": "high",
+   "thumb": "sunstone-tome/thumb.jpg"
+  },
+  {
+   "pid": "240da329e7c54b3c",
+   "slug": "synapse-surge",
+   "title": "Synapse Surge",
+   "tagline": "신경 회로의 연쇄 반응을 따라 배수가 성장",
+   "tags": [
+    "6×7",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 22,
+   "deployedAt": "2026-10-29T08:27:46.888Z",
+   "firstDeployedAt": "2026-10-29T08:27:46.888Z",
+   "tier": "very-high",
+   "family": "Dynamite Gulch",
+   "thumb": "synapse-surge/thumb.jpg"
+  },
+  {
+   "pid": "e60fb36167b84382",
+   "slug": "tempest-amphora",
+   "title": "Tempest Amphora",
+   "tagline": "바람 유물을 텀블하고 봉인 항아리 배수를 합산",
+   "tags": [
+    "6×5",
+    "Pay Anywhere",
+    "RTP 96.5%"
+   ],
+   "revision": 21,
+   "deployedAt": "2026-10-29T08:27:54.003Z",
+   "firstDeployedAt": "2026-10-29T08:27:54.003Z",
+   "tier": "high",
+   "family": "Candy Pop Cascade",
+   "thumb": "tempest-amphora/thumb.jpg"
+  },
+  {
+   "pid": "3004cf149a194ab6",
+   "slug": "temple-mask-tumble",
+   "title": "Temple Mask Tumble",
+   "tagline": "떨어지는 석재 블록 텀블과 x5까지 오르는 배수, 태양 가면 프리 드롭",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 21,
+   "deployedAt": "2026-10-29T08:32:33.419Z",
+   "firstDeployedAt": "2026-10-27T08:47:48.345Z",
+   "tier": "high",
+   "thumb": "temple-mask-tumble/thumb.jpg"
+  },
+  {
+   "pid": "c22d2a1991554fec",
+   "slug": "terracotta-fortune",
+   "title": "Terracotta Fortune",
+   "tagline": "테라코타 군단의 행운 진주 홀드 앤 스핀과 4단 잭팟",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 37,
+   "deployedAt": "2026-10-29T08:32:38.618Z",
+   "firstDeployedAt": "2026-10-22T06:57:49.000Z",
+   "tier": "high",
+   "thumb": "terracotta-fortune/thumb.jpg"
+  },
+  {
+   "pid": "41fd540e1cd340f4",
+   "slug": "thunder-drum-fortune",
+   "title": "Thunder Drum Fortune",
+   "tagline": "설날 밤 드럼 스캐터, 릴 높이를 고르는 프리 스핀과 행운 동전 잭팟",
+   "tags": [
+    "5×3",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 47,
+   "deployedAt": "2026-10-29T08:32:43.782Z",
+   "firstDeployedAt": "2026-10-22T06:57:19.000Z",
+   "tier": "medium",
+   "thumb": "thunder-drum-fortune/thumb.jpg"
+  },
+  {
+   "pid": "47532995a6534e0e",
+   "slug": "thunderhide-savanna",
+   "title": "Thunderhide Savanna",
+   "tagline": "노을 사바나의 4096 웨이즈, 다이아몬드 스캐터와 x2·x3 와일드 프리 스핀",
+   "tags": [
+    "6×4",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 25,
+   "deployedAt": "2026-10-29T08:32:48.792Z",
+   "firstDeployedAt": "2026-10-27T08:48:17.000Z",
+   "tier": "high",
+   "thumb": "thunderhide-savanna/thumb.jpg"
+  },
+  {
+   "pid": "e07859af6ee3492b",
+   "slug": "tidal-kitchen-caravan",
+   "title": "Tidal Kitchen Caravan",
+   "tagline": "물길을 따라가는 이동 부엌에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 12,
+   "deployedAt": "2026-10-29T08:28:02.279Z",
+   "firstDeployedAt": "2026-10-29T08:28:02.279Z",
+   "tier": "medium",
+   "family": "Terracotta Fortune",
+   "thumb": "tidal-kitchen-caravan/thumb.jpg"
+  },
+  {
+   "pid": "e2e43828a8964918",
+   "slug": "titan-clash",
+   "title": "Titan Clash",
+   "tagline": "폐허 투기장의 원소 거인 5x4 40라인: 무료 스핀마다 2x2~3x3 거인 블록이 떨어지고 걸친 릴이 함께 돌아감",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:32:53.867Z",
+   "firstDeployedAt": "2026-10-27T18:34:11.624Z",
+   "tier": "low",
+   "thumb": "titan-clash/thumb.jpg"
+  },
+  {
+   "pid": "a7ccda5e1a674a75",
+   "slug": "tomb-keeper-gold",
+   "title": "Tomb Keeper Gold",
+   "tagline": "무덤 수호자와 그린 젬이 여는 키퍼 존, 코인을 모으는 이집트 카툰 슬롯",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 28,
+   "deployedAt": "2026-10-29T08:32:59.163Z",
+   "firstDeployedAt": "2026-10-22T06:57:26.000Z",
+   "tier": "high",
+   "thumb": "tomb-keeper-gold/thumb.jpg"
+  },
+  {
+   "pid": "90adc7cb4a1c4184",
+   "slug": "topiary-terrace-tour",
+   "title": "Topiary Terrace Tour",
+   "tagline": "거대한 토피어리의 언덕 순회에서 이어지는 발견과 성장",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 13,
+   "deployedAt": "2026-10-29T08:28:10.416Z",
+   "firstDeployedAt": "2026-10-29T08:28:10.416Z",
+   "tier": "medium",
+   "family": "Titan Clash",
+   "thumb": "topiary-terrace-tour/thumb.jpg"
+  },
+  {
+   "pid": "00d2efb2f79e4ca8",
+   "slug": "trail-badge-trio",
+   "title": "Trail Badge Trio",
+   "tagline": "산길 배지를 맞추는 작은 역참에서 이어지는 발견과 성장",
+   "tags": [
+    "3×3",
+    "Lines",
+    "RTP 95.4%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:28:18.512Z",
+   "firstDeployedAt": "2026-10-29T08:28:18.512Z",
+   "tier": "medium",
+   "family": "Twin Crystal Classic",
+   "thumb": "trail-badge-trio/thumb.jpg"
+  },
+  {
+   "pid": "f749af3aabc040f6",
+   "slug": "twin-crystal-classic",
+   "title": "Twin Crystal Classic",
+   "tagline": "x2·x4 크리스탈 와일드와 애니 바·체리, 3릴 1라인 레트로 클래식",
+   "tags": [
+    "3×3",
+    "Lines",
+    "RTP 95.4%"
+   ],
+   "revision": 23,
+   "deployedAt": "2026-10-29T08:33:03.993Z",
+   "firstDeployedAt": "2026-10-27T08:48:42.000Z",
+   "tier": "high",
+   "thumb": "twin-crystal-classic/thumb.jpg"
+  },
+  {
+   "pid": "2b1c4eed36fd4538",
+   "slug": "velocipede-touring-club",
+   "title": "Velocipede Touring Club",
+   "tagline": "자전거 여행 장비가 맞춰지는 작은 순회 클럽",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 11,
+   "deployedAt": "2026-10-29T08:28:25.617Z",
+   "firstDeployedAt": "2026-10-29T08:28:25.617Z",
+   "tier": "medium",
+   "family": "Carnival Mini-Slot",
+   "thumb": "velocipede-touring-club/thumb.jpg"
+  },
+  {
+   "pid": "081289468ea24e89",
+   "slug": "wayfarer-shoemakers-stop",
+   "title": "Wayfarer Shoemakers Stop",
+   "tagline": "버클을 모아 여행 신발 진열대를 펼치는 길가 피팅소",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:28:32.792Z",
+   "firstDeployedAt": "2026-10-29T08:28:32.792Z",
+   "tier": "medium",
+   "family": "Star Atlas",
+   "thumb": "wayfarer-shoemakers-stop/thumb.jpg"
+  },
+  {
+   "pid": "b1787a9d5bc94502",
+   "slug": "wayfarer-tea-chests",
+   "title": "Wayfarer Tea Chests",
+   "tagline": "차 여행단의 색별 보관함에서 이어지는 발견과 성장",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:28:40.130Z",
+   "firstDeployedAt": "2026-10-29T08:28:40.130Z",
+   "tier": "medium",
+   "family": "Crown Gem Vaults",
+   "thumb": "wayfarer-tea-chests/thumb.jpg"
+  },
+  {
+   "pid": "a9aaa9585dd14761",
+   "slug": "weather-atlas-trek",
+   "title": "Weather Atlas Trek",
+   "tagline": "기상 도감을 펼치는 산등성이 여행에서 이어지는 발견과 성장",
+   "tags": [
+    "5×3",
+    "Lines",
+    "RTP 96.2%"
+   ],
+   "revision": 13,
+   "deployedAt": "2026-10-29T08:28:48.135Z",
+   "firstDeployedAt": "2026-10-29T08:28:48.135Z",
+   "tier": "medium",
+   "family": "Sunstone Tome",
+   "thumb": "weather-atlas-trek/thumb.jpg"
+  },
+  {
+   "pid": "d48d182c52e94262",
+   "slug": "windmill-flour-crossing",
+   "title": "Windmill Flour Crossing",
+   "tagline": "풍차 고개의 곡물 여정에서 이어지는 발견과 성장",
+   "tags": [
+    "6×7",
+    "Ways",
+    "RTP 96.0%"
+   ],
+   "revision": 23,
+   "deployedAt": "2026-10-29T08:28:56.371Z",
+   "firstDeployedAt": "2026-10-29T08:28:56.371Z",
+   "tier": "medium",
+   "family": "Dynamite Gulch",
+   "thumb": "windmill-flour-crossing/thumb.jpg"
+  },
+  {
+   "pid": "11116f1a43de49fb",
+   "slug": "windup-parade",
+   "title": "Windup Parade",
+   "tagline": "한밤 장난감 가게의 태엽 퍼레이드: 무료 스핀에서 x2 태엽 와일드가 매 스핀 왼쪽으로 행진하는 5x4 40라인",
+   "tags": [
+    "5×4",
+    "Lines",
+    "RTP 96.0%"
+   ],
+   "revision": 16,
+   "deployedAt": "2026-10-29T08:33:09.208Z",
+   "firstDeployedAt": "2026-10-27T17:07:41.523Z",
+   "tier": "low",
+   "thumb": "windup-parade/thumb.jpg"
+  }
+ ]
+}

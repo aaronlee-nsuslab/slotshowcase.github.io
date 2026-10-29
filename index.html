@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Slot Showcase</title>
+<style>
+:root{--bg:#0b0d1e;--card:#161a33;--line:#2a3058;--text:#eef0ff;--muted:#9aa0c8;--accent:#ffb347}
+@media (prefers-color-scheme: light){:root{--bg:#f4f5fb;--card:#fff;--line:#dde0ef;--text:#171a2e;--muted:#5d6386;--accent:#d9731c}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 system-ui,-apple-system,"Segoe UI","Malgun Gothic",sans-serif}
+header{max-width:1200px;margin:0 auto;padding:28px 16px 8px;display:flex;flex-wrap:wrap;gap:12px;align-items:end;justify-content:space-between}
+h1{margin:0;font-size:28px;letter-spacing:.3px}
+.sub{color:var(--muted);font-size:13px}
+input,select{background:var(--card);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:9px 12px;font:inherit}
+input{min-width:220px}
+.tools{display:flex;flex-wrap:wrap;gap:8px}
+@media (max-width:520px){.tools,.tools input,.tools select{width:100%;min-width:0}}
+main{max-width:1200px;margin:0 auto;padding:12px 16px 40px;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+a.card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;color:inherit;text-decoration:none;transition:transform .15s,border-color .15s}
+a.card:hover,a.card:focus-visible{transform:translateY(-3px);border-color:var(--accent);outline:none}
+.thumb{aspect-ratio:16/9;background:#1d2244 center/cover no-repeat;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:20px;color:#fff;text-align:center;padding:10px}
+.body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:4px}
+.title{font-weight:700;font-size:16px}
+.tagline{color:var(--muted);font-size:13px}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.tag{font-size:11px;border:1px solid var(--line);border-radius:999px;padding:2px 8px;color:var(--muted)}
+.tier{font-size:11px;font-weight:700;border-radius:999px;padding:2px 9px;color:#fff;letter-spacing:.2px}
+.tier.low{background:#2f9e74}.tier.medium{background:#2b7bd0}.tier.high{background:#c9831b}.tier.very-high{background:#8e2fd6}
+.family{color:var(--muted);font-size:12px}
+.dates{margin-top:6px;display:grid;grid-template-columns:auto 1fr;column-gap:8px;font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.dates dt{margin:0}.dates dd{margin:0;color:var(--text)}
+.empty{grid-column:1/-1;color:var(--muted);text-align:center;padding:60px 0}
+</style>
+</head>
+<body>
+<header>
+  <div><h1>Slot Showcase</h1><div class="sub" id="count">불러오는 중…</div></div>
+  <div class="tools">
+    <input id="q" type="search" placeholder="게임 검색(Search)" aria-label="게임 검색">
+    <select id="tier" aria-label="변동성 등급(Volatility)">
+      <option value="">모든 등급(Volatility)</option>
+      <option value="low">Low(저)</option>
+      <option value="medium">Medium(중)</option>
+      <option value="high">High(고)</option>
+      <option value="very-high">Very High(초고)</option>
+    </select>
+    <select id="sort" aria-label="정렬(Sort)">
+      <option value="name">이름순(A→Z)</option>
+      <option value="updated">업데이트 최신순</option>
+      <option value="updated-old">업데이트 오래된순</option>
+      <option value="first">최초 배포 최신순</option>
+      <option value="first-old">최초 배포 오래된순</option>
+    </select>
+  </div>
+</header>
+<main id="grid"></main>
+<script>
+(async () => {
+  const grid = document.getElementById('grid');
+  const count = document.getElementById('count');
+  const q = document.getElementById('q');
+  const sort = document.getElementById('sort');
+  const tierSel = document.getElementById('tier');
+  const TIER = { low: 'Low', medium: 'Medium', high: 'High', 'very-high': 'Very High' };
+  // the viewer's last sort is remembered on this device (storage may be off — then the default)
+  try { const v = localStorage.getItem('showcase-sort'); if (v && sort.querySelector('option[value="' + v + '"]')) sort.value = v; } catch (e) {}
+  let games = [];
+  try {
+    const r = await fetch('./games.json', { cache: 'no-cache' });
+    games = (await r.json()).games || [];
+  } catch (e) {
+    count.textContent = '게임 목록을 불러오지 못했습니다';
+    return;
+  }
+  const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text) n.textContent = text; return n; };
+  // deploy times in the viewer's local time, to the second: 2026-10-27 17:45:11
+  const p2 = (n) => String(n).padStart(2, '0');
+  const when = (iso) => { const d = new Date(iso); return isNaN(d) ? '' : d.getFullYear() + '-' + p2(d.getMonth() + 1) + '-' + p2(d.getDate()) + ' ' + p2(d.getHours()) + ':' + p2(d.getMinutes()) + ':' + p2(d.getSeconds()); };
+  const draw = () => {
+    const k = q.value.trim().toLowerCase();
+    const tf = tierSel.value;
+    const list = games.filter((g) => (!tf || g.tier === tf) && (!k || (g.title + ' ' + (g.tagline || '') + ' ' + (g.tags || []).join(' ') + ' ' + (TIER[g.tier] || '') + ' ' + (g.family || '')).toLowerCase().includes(k)));
+    // name: A→Z; dates: newest (or oldest) first, games without a time last, ties by name
+    const byName = (a, b) => a.title.localeCompare(b.title, 'en', { sensitivity: 'base' });
+    const t = (iso) => { const v = Date.parse(iso || ''); return isNaN(v) ? null : v; };
+    const byTime = (key, dir) => (a, b) => {
+      const x = t(a[key]), y = t(b[key]);
+      if (x === y) return byName(a, b);
+      if (x === null) return 1;
+      if (y === null) return -1;
+      return dir * (y - x);
+    };
+    const cmp = { name: byName, updated: byTime('deployedAt', 1), 'updated-old': byTime('deployedAt', -1), first: byTime('firstDeployedAt', 1), 'first-old': byTime('firstDeployedAt', -1) }[sort.value] || byName;
+    list.sort(cmp);
+    grid.replaceChildren();
+    count.textContent = games.length + '개 게임 · 카드를 누르면 바로 플레이합니다';
+    if (!list.length) grid.append(el('div', 'empty', '맞는 게임이 없습니다'));
+    for (const g of list) {
+      const a = el('a', 'card');
+      a.href = './' + encodeURIComponent(g.slug) + '/';
+      const t = el('div', 'thumb', g.thumb ? '' : g.title);
+      if (g.thumb) t.style.backgroundImage = 'url("./' + g.thumb.split('/').map(encodeURIComponent).join('/') + '?r=' + g.revision + '")';
+      const b = el('div', 'body');
+      b.append(el('div', 'title', g.title));
+      if (g.tagline) b.append(el('div', 'tagline', g.tagline));
+      if (g.family) b.append(el('div', 'family', '원본 계열: ' + g.family));
+      const tags = el('div', 'tags');
+      if (TIER[g.tier]) tags.append(Object.assign(el('span', 'tier ' + g.tier, TIER[g.tier]), { title: '변동성 등급(Volatility)' }));
+      for (const x of g.tags || []) tags.append(el('span', 'tag', x));
+      b.append(tags);
+      const dates = el('dl', 'dates');
+      for (const [k, v] of [['최초 배포', g.firstDeployedAt], ['업데이트', g.deployedAt]]) {
+        const s = v && when(v);
+        if (s) dates.append(el('dt', '', k), Object.assign(el('dd', '', s), { title: v }));
+      }
+      if (dates.childNodes.length) b.append(dates);
+      a.append(t, b);
+      grid.append(a);
+    }
+  };
+  q.addEventListener('input', draw);
+  tierSel.addEventListener('change', draw);
+  sort.addEventListener('change', () => { try { localStorage.setItem('showcase-sort', sort.value); } catch (e) {} draw(); });
+  draw();
+})();
+</script>
+</body>
+</html>

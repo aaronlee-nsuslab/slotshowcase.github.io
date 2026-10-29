@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+    <title>Slot Player</title>
+    <style>html,body{margin:0;height:100%;background:#05081A;overflow:hidden}#game{position:fixed;inset:0}</style>
+    <script type="module" crossorigin src="../_shared/player-C16clEm4.js"></script>
+  </head>
+  <body>
+    <div id="game"><div id="slot-boot-loading" role="status" aria-label="Loading"><span></span>LOADING</div></div>
+    <style>
+      #slot-boot-loading{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:24px;background:#080e22;color:white;font:14px system-ui;letter-spacing:3px;z-index:10000}
+      #slot-boot-loading span{width:44px;height:44px;border:3px solid #ffffff26;border-top-color:#e4bc64;border-radius:50%;animation:boot-spin 1s linear infinite}
+      @keyframes boot-spin{to{transform:rotate(360deg)}}
+    </style>
+  <a href="../" title="게임 목록(Games)" aria-label="게임 목록" style="position:fixed;left:10px;top:10px;z-index:9999;width:34px;height:34px;border-radius:17px;display:flex;align-items:center;justify-content:center;background:rgba(10,12,28,.55);color:#fff;font:600 18px/1 system-ui,sans-serif;text-decoration:none;border:1px solid rgba(255,255,255,.25)">&#8592;</a></body>
+</html>
