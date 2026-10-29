@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:10:21.759Z",
+ "updatedAt": "2026-10-29T17:10:26.968Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -504,8 +504,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 23,
-   "deployedAt": "2026-10-29T08:30:36.741Z",
+   "revision": 24,
+   "deployedAt": "2026-10-29T17:10:25.910Z",
    "firstDeployedAt": "2026-10-22T06:58:56.000Z",
    "tier": "high",
    "thumb": "hammer-hogs/thumb.jpg"
