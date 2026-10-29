@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:14:20.872Z",
+ "updatedAt": "2026-10-29T17:14:25.928Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1280,8 +1280,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 13,
-   "deployedAt": "2026-10-29T08:32:23.019Z",
+   "revision": 15,
+   "deployedAt": "2026-10-29T17:14:24.827Z",
    "firstDeployedAt": "2026-10-27T17:04:32.485Z",
    "tier": "low",
    "thumb": "storm-anvil/thumb.jpg"
