@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:14:05.377Z",
+ "updatedAt": "2026-10-29T17:14:10.589Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1231,8 +1231,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 18,
-   "deployedAt": "2026-10-29T08:27:30.655Z",
+   "revision": 19,
+   "deployedAt": "2026-10-29T17:14:09.523Z",
    "firstDeployedAt": "2026-10-29T08:27:30.655Z",
    "tier": "medium",
    "family": "Windup Parade",
