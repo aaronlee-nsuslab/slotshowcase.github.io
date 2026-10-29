@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:09:51.171Z",
+ "updatedAt": "2026-10-29T17:09:56.154Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -407,8 +407,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 14,
-   "deployedAt": "2026-10-29T08:30:10.978Z",
+   "revision": 15,
+   "deployedAt": "2026-10-29T17:09:55.086Z",
    "firstDeployedAt": "2026-10-27T18:27:03.078Z",
    "tier": "low",
    "thumb": "firefly-jar/thumb.jpg"
