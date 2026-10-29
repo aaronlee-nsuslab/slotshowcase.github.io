@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:13:09.125Z",
+ "updatedAt": "2026-10-29T17:13:14.387Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1046,8 +1046,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 14,
-   "deployedAt": "2026-10-29T08:26:20.490Z",
+   "revision": 15,
+   "deployedAt": "2026-10-29T17:13:13.321Z",
    "firstDeployedAt": "2026-10-29T08:26:20.490Z",
    "tier": "medium",
    "family": "Barnyard Saucer Raid",
