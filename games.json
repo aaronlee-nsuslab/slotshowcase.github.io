@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:15:25.842Z",
+ "updatedAt": "2026-10-29T17:15:31.072Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1379,8 +1379,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 37,
-   "deployedAt": "2026-10-29T08:32:38.618Z",
+   "revision": 38,
+   "deployedAt": "2026-10-29T17:15:30.024Z",
    "firstDeployedAt": "2026-10-22T06:57:49.000Z",
    "tier": "high",
    "thumb": "terracotta-fortune/thumb.jpg"
