@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:08:29.406Z",
+ "updatedAt": "2026-10-29T17:08:34.356Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -144,8 +144,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 12,
-   "deployedAt": "2026-10-29T08:29:24.853Z",
+   "revision": 13,
+   "deployedAt": "2026-10-29T17:08:33.247Z",
    "firstDeployedAt": "2026-10-27T17:04:47.675Z",
    "tier": "medium",
    "thumb": "canopy-climb/thumb.jpg"
