@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:08:03.576Z",
+ "updatedAt": "2026-10-29T17:08:08.861Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -62,8 +62,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 21,
-   "deployedAt": "2026-10-29T08:29:09.601Z",
+   "revision": 23,
+   "deployedAt": "2026-10-29T17:08:07.778Z",
    "firstDeployedAt": "2026-10-27T08:43:36.153Z",
    "tier": "low",
    "thumb": "barnyard-saucer-raid/thumb.jpg"
