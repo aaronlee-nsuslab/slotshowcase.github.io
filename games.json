@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:07:58.769Z",
+ "updatedAt": "2026-10-29T17:08:03.576Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -46,8 +46,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 16,
-   "deployedAt": "2026-10-29T08:29:04.336Z",
+   "revision": 17,
+   "deployedAt": "2026-10-29T17:08:02.559Z",
    "firstDeployedAt": "2026-10-27T16:55:33.331Z",
    "tier": "low",
    "thumb": "aurora-relay/thumb.jpg"
