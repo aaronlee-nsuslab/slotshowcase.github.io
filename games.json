@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:08:34.356Z",
+ "updatedAt": "2026-10-29T17:08:39.546Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -160,8 +160,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 24,
-   "deployedAt": "2026-10-29T08:29:30.127Z",
+   "revision": 25,
+   "deployedAt": "2026-10-29T17:08:38.476Z",
    "firstDeployedAt": "2026-10-24T07:15:42.000Z",
    "tier": "medium",
    "thumb": "captain-frost-voyage/thumb.jpg"
