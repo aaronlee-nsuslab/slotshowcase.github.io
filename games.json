@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:13:04.618Z",
+ "updatedAt": "2026-10-29T17:13:09.125Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1030,8 +1030,8 @@
     "Pay Anywhere",
     "RTP 96.0%"
    ],
-   "revision": 15,
-   "deployedAt": "2026-10-29T08:31:58.305Z",
+   "revision": 16,
+   "deployedAt": "2026-10-29T17:13:08.084Z",
    "firstDeployedAt": "2026-10-27T18:30:58.026Z",
    "tier": "low",
    "thumb": "prism-drop/thumb.jpg"
