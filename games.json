@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:10:16.781Z",
+ "updatedAt": "2026-10-29T17:10:21.759Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -488,8 +488,8 @@
     "Cluster",
     "RTP 96.0%"
    ],
-   "revision": 18,
-   "deployedAt": "2026-10-29T08:30:31.519Z",
+   "revision": 19,
+   "deployedAt": "2026-10-29T17:10:20.714Z",
    "firstDeployedAt": "2026-10-22T06:59:03.000Z",
    "tier": "high",
    "thumb": "gummy-grove/thumb.jpg"
