@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:12:39.016Z",
+ "updatedAt": "2026-10-29T17:12:43.705Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -946,8 +946,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 15,
-   "deployedAt": "2026-10-29T08:25:46.756Z",
+   "revision": 16,
+   "deployedAt": "2026-10-29T17:12:42.623Z",
    "firstDeployedAt": "2026-10-29T08:25:46.756Z",
    "tier": "medium",
    "family": "Temple Mask Tumble",
