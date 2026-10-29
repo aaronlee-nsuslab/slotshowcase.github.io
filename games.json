@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:08:24.118Z",
+ "updatedAt": "2026-10-29T17:08:29.406Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -128,8 +128,8 @@
     "Pay Anywhere",
     "RTP 96.5%"
    ],
-   "revision": 48,
-   "deployedAt": "2026-10-29T08:29:19.921Z",
+   "revision": 49,
+   "deployedAt": "2026-10-29T17:08:28.277Z",
    "firstDeployedAt": "2026-10-22T06:57:56.000Z",
    "tier": "medium",
    "thumb": "candy-pop-cascade/thumb.jpg"
