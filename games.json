@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:11:11.828Z",
+ "updatedAt": "2026-10-29T17:11:16.977Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -666,8 +666,8 @@
     "Lines",
     "RTP 96.7%"
    ],
-   "revision": 24,
-   "deployedAt": "2026-10-29T08:31:12.522Z",
+   "revision": 25,
+   "deployedAt": "2026-10-29T17:11:15.912Z",
    "firstDeployedAt": "2026-10-22T06:58:48.000Z",
    "tier": "high",
    "thumb": "lunker-lagoon/thumb.jpg"
