@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:10:32.217Z",
+ "updatedAt": "2026-10-29T17:10:37.072Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -536,8 +536,8 @@
     "Pay Anywhere",
     "RTP 96.0%"
    ],
-   "revision": 16,
-   "deployedAt": "2026-10-29T08:30:46.804Z",
+   "revision": 17,
+   "deployedAt": "2026-10-29T17:10:35.928Z",
    "firstDeployedAt": "2026-10-27T18:19:09.923Z",
    "tier": "low",
    "thumb": "honeycomb-royal/thumb.jpg"
