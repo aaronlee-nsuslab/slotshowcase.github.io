@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:09:30.803Z",
+ "updatedAt": "2026-10-29T17:09:35.798Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -339,8 +339,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 16,
-   "deployedAt": "2026-10-29T08:23:14.123Z",
+   "revision": 17,
+   "deployedAt": "2026-10-29T17:09:34.716Z",
    "firstDeployedAt": "2026-10-29T08:23:14.123Z",
    "tier": "medium",
    "family": "Firefly Jar",
