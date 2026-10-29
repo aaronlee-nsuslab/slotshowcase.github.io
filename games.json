@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:10:42.380Z",
+ "updatedAt": "2026-10-29T17:10:47.427Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -568,8 +568,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 25,
-   "deployedAt": "2026-10-29T08:30:57.164Z",
+   "revision": 26,
+   "deployedAt": "2026-10-29T17:10:46.286Z",
    "firstDeployedAt": "2026-10-24T07:15:51.000Z",
    "tier": "high",
    "thumb": "jade-koi-fortune/thumb.jpg"
