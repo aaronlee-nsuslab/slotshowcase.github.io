@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:16:17.922Z",
+ "updatedAt": "2026-10-29T17:16:22.994Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1543,8 +1543,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 16,
-   "deployedAt": "2026-10-29T08:28:32.792Z",
+   "revision": 17,
+   "deployedAt": "2026-10-29T17:16:21.964Z",
    "firstDeployedAt": "2026-10-29T08:28:32.792Z",
    "tier": "medium",
    "family": "Star Atlas",
