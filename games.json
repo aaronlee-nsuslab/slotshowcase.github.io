@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:09:46.012Z",
+ "updatedAt": "2026-10-29T17:09:51.171Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -390,8 +390,8 @@
     "Match3",
     "RTP 96.0%"
    ],
-   "revision": 23,
-   "deployedAt": "2026-10-29T08:23:37.567Z",
+   "revision": 27,
+   "deployedAt": "2026-10-29T17:09:50.084Z",
    "firstDeployedAt": "2026-10-29T08:23:37.567Z",
    "tier": "medium",
    "family": "Moonlit Pumpkin Swipe",
