@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-10-29T17:12:59.043Z",
+ "updatedAt": "2026-10-29T17:13:04.618Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1014,8 +1014,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 67,
-   "deployedAt": "2026-10-29T08:31:53.720Z",
+   "revision": 69,
+   "deployedAt": "2026-10-29T17:13:03.454Z",
    "firstDeployedAt": "2026-10-22T06:59:20.000Z",
    "tier": "high",
    "thumb": "prairie-gold-thunder/thumb.jpg"
