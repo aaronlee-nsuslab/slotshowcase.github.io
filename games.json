@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-04T16:52:56.255Z",
+ "updatedAt": "2026-11-04T16:53:01.424Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -732,8 +732,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 16,
-   "deployedAt": "2026-10-29T17:11:36.462Z",
+   "revision": 22,
+   "deployedAt": "2026-11-04T16:53:00.396Z",
    "firstDeployedAt": "2026-10-29T08:24:46.803Z",
    "tier": "high",
    "family": "Hog Heist Bingo",
