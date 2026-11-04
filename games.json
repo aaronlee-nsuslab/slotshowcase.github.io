@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-04T16:51:53.709Z",
+ "updatedAt": "2026-11-04T16:51:58.958Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -552,8 +552,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 26,
-   "deployedAt": "2026-10-29T17:10:41.172Z",
+   "revision": 31,
+   "deployedAt": "2026-11-04T16:51:57.974Z",
    "firstDeployedAt": "2026-10-24T07:14:46.000Z",
    "tier": "high",
    "thumb": "iron-horse-fortune/thumb.jpg"
