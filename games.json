@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-04T16:53:13.984Z",
+ "updatedAt": "2026-11-04T16:53:19.670Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -781,8 +781,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 24,
-   "deployedAt": "2026-10-29T17:11:51.636Z",
+   "revision": 29,
+   "deployedAt": "2026-11-04T16:53:18.678Z",
    "firstDeployedAt": "2026-10-22T06:58:33.000Z",
    "tier": "high",
    "thumb": "night-market-embers/thumb.jpg"
