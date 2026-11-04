@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-04T16:49:37.690Z",
+ "updatedAt": "2026-11-04T16:49:42.643Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -176,8 +176,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 15,
-   "deployedAt": "2026-10-29T17:08:43.401Z",
+   "revision": 20,
+   "deployedAt": "2026-11-04T16:49:41.643Z",
    "firstDeployedAt": "2026-10-27T18:29:11.615Z",
    "tier": "low",
    "thumb": "carnival-minislot/thumb.jpg"
