@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-04T16:56:33.123Z",
+ "updatedAt": "2026-11-04T16:56:38.355Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1363,8 +1363,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 23,
-   "deployedAt": "2026-10-29T17:15:24.824Z",
+   "revision": 28,
+   "deployedAt": "2026-11-04T16:56:37.335Z",
    "firstDeployedAt": "2026-10-27T08:47:48.345Z",
    "tier": "high",
    "thumb": "temple-mask-tumble/thumb.jpg"
