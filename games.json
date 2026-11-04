@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-04T16:57:02.032Z",
+ "updatedAt": "2026-11-04T16:57:08.124Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1444,8 +1444,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 17,
-   "deployedAt": "2026-10-29T17:15:51.413Z",
+   "revision": 22,
+   "deployedAt": "2026-11-04T16:57:06.945Z",
    "firstDeployedAt": "2026-10-27T18:34:11.624Z",
    "tier": "low",
    "thumb": "titan-clash/thumb.jpg"
