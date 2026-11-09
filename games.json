@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:42:16.353Z",
+ "updatedAt": "2026-11-09T13:42:21.798Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -880,7 +880,7 @@
     "RTP 96.0%"
    ],
    "revision": 23,
-   "deployedAt": "2026-11-04T16:53:55.534Z",
+   "deployedAt": "2026-11-09T13:42:20.622Z",
    "firstDeployedAt": "2026-10-29T08:25:21.327Z",
    "tier": "medium",
    "family": "Tomb Keeper Gold",
