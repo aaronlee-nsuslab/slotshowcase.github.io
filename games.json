@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:41:17.116Z",
+ "updatedAt": "2026-11-09T13:41:21.955Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -683,7 +683,7 @@
     "RTP 96.0%"
    ],
    "revision": 18,
-   "deployedAt": "2026-11-04T16:52:42.785Z",
+   "deployedAt": "2026-11-09T13:41:20.982Z",
    "firstDeployedAt": "2026-10-29T08:24:29.309Z",
    "tier": "medium",
    "family": "Lantern Drop",
