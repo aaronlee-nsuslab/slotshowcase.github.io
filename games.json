@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:38:10.497Z",
+ "updatedAt": "2026-11-09T13:38:15.739Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -79,7 +79,7 @@
     "RTP 96.0%"
    ],
    "revision": 24,
-   "deployedAt": "2026-11-04T16:49:07.021Z",
+   "deployedAt": "2026-11-09T13:38:14.580Z",
    "firstDeployedAt": "2026-10-29T08:22:33.191Z",
    "tier": "medium",
    "family": "Diamond Rail Express",
