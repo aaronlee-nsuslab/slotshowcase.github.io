@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:40:46.244Z",
+ "updatedAt": "2026-11-09T13:40:51.395Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -585,7 +585,7 @@
     "RTP 96.0%"
    ],
    "revision": 38,
-   "deployedAt": "2026-11-04T16:52:09.151Z",
+   "deployedAt": "2026-11-09T13:40:50.219Z",
    "firstDeployedAt": "2026-10-27T15:01:57.117Z",
    "thumb": "keepers-archive-5000/thumb.jpg"
   },
