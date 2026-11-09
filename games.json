@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:43:11.979Z",
+ "updatedAt": "2026-11-09T13:43:16.858Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1064,7 +1064,7 @@
     "RTP 96.0%"
    ],
    "revision": 24,
-   "deployedAt": "2026-11-04T16:54:57.828Z",
+   "deployedAt": "2026-11-09T13:43:15.838Z",
    "firstDeployedAt": "2026-10-27T17:15:49.101Z",
    "tier": "low",
    "thumb": "railway-infinity/thumb.jpg"
