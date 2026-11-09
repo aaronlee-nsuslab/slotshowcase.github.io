@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:40:56.487Z",
+ "updatedAt": "2026-11-09T13:41:01.683Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -617,7 +617,7 @@
     "RTP 96.0%"
    ],
    "revision": 24,
-   "deployedAt": "2026-11-04T16:52:21.445Z",
+   "deployedAt": "2026-11-09T13:41:00.474Z",
    "firstDeployedAt": "2026-10-29T08:24:12.156Z",
    "tier": "high",
    "family": "Captain Frost Voyage",
