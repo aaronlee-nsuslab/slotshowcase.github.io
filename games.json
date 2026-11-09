@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:43:37.388Z",
+ "updatedAt": "2026-11-09T13:43:42.351Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1147,7 +1147,7 @@
     "RTP 96.0%"
    ],
    "revision": 20,
-   "deployedAt": "2026-11-04T16:55:24.505Z",
+   "deployedAt": "2026-11-09T13:43:41.358Z",
    "firstDeployedAt": "2026-10-29T08:26:49.882Z",
    "tier": "medium",
    "family": "Deep Dig",
