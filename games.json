@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:38:15.739Z",
+ "updatedAt": "2026-11-09T13:38:21.128Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -96,7 +96,7 @@
     "RTP 96.1%"
    ],
    "revision": 35,
-   "deployedAt": "2026-11-04T16:49:13.316Z",
+   "deployedAt": "2026-11-09T13:38:19.910Z",
    "firstDeployedAt": "2026-10-22T06:58:41.000Z",
    "tier": "very-high",
    "thumb": "bullion-express/thumb.jpg"
