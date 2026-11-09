@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:42:21.798Z",
+ "updatedAt": "2026-11-09T13:42:26.610Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -897,7 +897,7 @@
     "RTP 96.7%"
    ],
    "revision": 26,
-   "deployedAt": "2026-11-04T16:54:00.548Z",
+   "deployedAt": "2026-11-09T13:42:25.628Z",
    "firstDeployedAt": "2026-10-29T08:25:30.414Z",
    "tier": "medium",
    "family": "Lunker Lagoon",
