@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:44:30.812Z",
+ "updatedAt": "2026-11-09T13:44:35.846Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1330,7 +1330,7 @@
     "RTP 96.0%"
    ],
    "revision": 27,
-   "deployedAt": "2026-11-04T16:56:26.977Z",
+   "deployedAt": "2026-11-09T13:44:34.658Z",
    "firstDeployedAt": "2026-10-29T08:27:46.888Z",
    "tier": "very-high",
    "family": "Dynamite Gulch",
