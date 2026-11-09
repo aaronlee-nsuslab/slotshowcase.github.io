@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:45:21.668Z",
+ "updatedAt": "2026-11-09T13:45:25.632Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1494,7 +1494,7 @@
     "RTP 95.4%"
    ],
    "revision": 23,
-   "deployedAt": "2026-11-04T16:57:24.225Z",
+   "deployedAt": "2026-11-09T13:45:24.684Z",
    "firstDeployedAt": "2026-10-29T08:28:18.512Z",
    "tier": "medium",
    "family": "Twin Crystal Classic",
