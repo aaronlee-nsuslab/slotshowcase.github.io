@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:45:29.939Z",
+ "updatedAt": "2026-11-09T13:45:35.059Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1527,7 +1527,7 @@
     "RTP 96.0%"
    ],
    "revision": 18,
-   "deployedAt": "2026-11-04T16:57:35.467Z",
+   "deployedAt": "2026-11-09T13:45:33.904Z",
    "firstDeployedAt": "2026-10-29T08:28:25.617Z",
    "tier": "medium",
    "family": "Carnival Mini-Slot",
