@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:42:30.951Z",
+ "updatedAt": "2026-11-09T13:42:36.096Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -931,7 +931,7 @@
     "RTP 96.0%"
    ],
    "revision": 29,
-   "deployedAt": "2026-11-04T16:54:12.946Z",
+   "deployedAt": "2026-11-09T13:42:34.971Z",
    "firstDeployedAt": "2026-10-24T07:15:02.000Z",
    "tier": "high",
    "thumb": "pearl-dragon-whirl/thumb.jpg"
