@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:40:10.403Z",
+ "updatedAt": "2026-11-09T13:40:15.413Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -472,8 +472,8 @@
     "Match3",
     "RTP 96.6%"
    ],
-   "revision": 35,
-   "deployedAt": "2026-11-04T16:51:24.209Z",
+   "revision": 36,
+   "deployedAt": "2026-11-09T13:40:14.384Z",
    "firstDeployedAt": "2026-10-22T06:57:11.000Z",
    "tier": "low",
    "thumb": "gumdrop-swipe-park/thumb.jpg"
