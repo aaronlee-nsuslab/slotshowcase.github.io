@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-09T13:43:21.986Z",
+ "updatedAt": "2026-11-09T13:43:27.032Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1097,7 +1097,7 @@
     "RTP 96.0%"
    ],
    "revision": 23,
-   "deployedAt": "2026-11-04T16:55:07.101Z",
+   "deployedAt": "2026-11-09T13:43:26.046Z",
    "firstDeployedAt": "2026-10-29T08:26:35.605Z",
    "tier": "medium",
    "family": "Nebula Jewels",
