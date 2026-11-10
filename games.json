@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-10T16:55:17.924Z",
+ "updatedAt": "2026-11-10T16:55:24.503Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -192,8 +192,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 32,
-   "deployedAt": "2026-11-09T13:38:48.491Z",
+   "revision": 33,
+   "deployedAt": "2026-11-10T16:55:22.081Z",
    "firstDeployedAt": "2026-10-22T06:59:29.000Z",
    "tier": "very-high",
    "thumb": "cellblock-riot/thumb.jpg"
