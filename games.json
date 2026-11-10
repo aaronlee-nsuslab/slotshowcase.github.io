@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-10T16:59:05.166Z",
+ "updatedAt": "2026-11-10T16:59:10.187Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1460,8 +1460,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 32,
-   "deployedAt": "2026-11-09T13:45:15.718Z",
+   "revision": 33,
+   "deployedAt": "2026-11-10T16:59:09.048Z",
    "firstDeployedAt": "2026-10-22T06:57:26.000Z",
    "tier": "high",
    "thumb": "tomb-keeper-gold/thumb.jpg"
