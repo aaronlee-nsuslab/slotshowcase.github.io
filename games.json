@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-10T16:58:27.104Z",
+ "updatedAt": "2026-11-10T16:58:31.982Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1248,8 +1248,8 @@
     "Cluster",
     "RTP 96.0%"
    ],
-   "revision": 23,
-   "deployedAt": "2026-11-09T13:44:10.019Z",
+   "revision": 24,
+   "deployedAt": "2026-11-10T16:58:31.005Z",
    "firstDeployedAt": "2026-10-27T17:19:08.878Z",
    "tier": "low",
    "thumb": "spore-kingdom/thumb.jpg"
