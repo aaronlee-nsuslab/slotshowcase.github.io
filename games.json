@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-10T16:59:24.409Z",
+ "updatedAt": "2026-11-10T16:59:29.432Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1575,10 +1575,10 @@
    "tags": [
     "5×3",
     "Lines",
-    "RTP 96.2%"
+    "RTP 96.0%"
    ],
-   "revision": 19,
-   "deployedAt": "2026-11-09T13:45:49.302Z",
+   "revision": 20,
+   "deployedAt": "2026-11-10T16:59:28.431Z",
    "firstDeployedAt": "2026-10-29T08:28:48.135Z",
    "tier": "medium",
    "family": "Sunstone Tome",
