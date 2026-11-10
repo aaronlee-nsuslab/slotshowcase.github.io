@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-10T16:58:48.477Z",
+ "updatedAt": "2026-11-10T16:58:54.607Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1344,10 +1344,10 @@
    "tags": [
     "6×5",
     "Pay Anywhere",
-    "RTP 96.5%"
+    "RTP 96.0%"
    ],
-   "revision": 24,
-   "deployedAt": "2026-11-09T13:44:39.806Z",
+   "revision": 25,
+   "deployedAt": "2026-11-10T16:58:53.613Z",
    "firstDeployedAt": "2026-10-29T08:27:54.003Z",
    "tier": "high",
    "family": "Candy Pop Cascade",
