@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-10T16:55:49.683Z",
+ "updatedAt": "2026-11-10T16:55:54.787Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -289,8 +289,8 @@
     "Ways",
     "RTP 96.0%"
    ],
-   "revision": 18,
-   "deployedAt": "2026-11-09T13:39:19.047Z",
+   "revision": 19,
+   "deployedAt": "2026-11-10T16:55:53.515Z",
    "firstDeployedAt": "2026-10-29T08:22:58.643Z",
    "tier": "medium",
    "family": "Railway Infinity",
