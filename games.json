@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-10T16:57:11.724Z",
+ "updatedAt": "2026-11-10T16:57:17.020Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -830,8 +830,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 26,
-   "deployedAt": "2026-11-09T13:42:05.303Z",
+   "revision": 27,
+   "deployedAt": "2026-11-10T16:57:15.707Z",
    "firstDeployedAt": "2026-10-29T08:25:05.114Z",
    "tier": "high",
    "family": "Dead Ridge Outlaws",
