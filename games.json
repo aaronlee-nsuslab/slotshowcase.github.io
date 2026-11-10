@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-10T16:55:39.103Z",
+ "updatedAt": "2026-11-10T16:55:44.669Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -241,8 +241,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 32,
-   "deployedAt": "2026-11-09T13:39:03.989Z",
+   "revision": 33,
+   "deployedAt": "2026-11-10T16:55:43.515Z",
    "firstDeployedAt": "2026-10-22T06:58:18.000Z",
    "tier": "very-high",
    "thumb": "dead-ridge-outlaws/thumb.jpg"
