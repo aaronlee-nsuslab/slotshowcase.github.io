@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:02:47.723Z",
+ "updatedAt": "2026-11-11T06:02:53.013Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -307,7 +307,7 @@
     "RTP 96.0%"
    ],
    "revision": 25,
-   "deployedAt": "2026-11-09T13:39:24.162Z",
+   "deployedAt": "2026-11-11T06:02:51.859Z",
    "firstDeployedAt": "2026-10-29T08:23:05.818Z",
    "tier": "medium",
    "family": "Gummy Grove",
