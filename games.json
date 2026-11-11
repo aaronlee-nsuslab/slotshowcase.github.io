@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:06:31.077Z",
+ "updatedAt": "2026-11-11T06:06:35.034Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1080,7 +1080,7 @@
     "RTP 96.0%"
    ],
    "revision": 18,
-   "deployedAt": "2026-11-09T13:43:20.956Z",
+   "deployedAt": "2026-11-11T06:06:34.078Z",
    "firstDeployedAt": "2026-10-29T08:26:28.459Z",
    "tier": "medium",
    "family": "Aurora Relay",
