@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:04:15.854Z",
+ "updatedAt": "2026-11-11T06:04:19.851Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -600,7 +600,7 @@
     "RTP 96.0%"
    ],
    "revision": 25,
-   "deployedAt": "2026-11-10T16:56:25.384Z",
+   "deployedAt": "2026-11-11T06:04:18.854Z",
    "firstDeployedAt": "2026-10-29T08:24:03.979Z",
    "tier": "medium",
    "family": "Thunderhide Savanna",
