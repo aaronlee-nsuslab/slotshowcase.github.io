@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:04:59.806Z",
+ "updatedAt": "2026-11-11T06:05:04.198Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -765,8 +765,8 @@
     "Lines",
     "RTP 96.0%"
    ],
-   "revision": 34,
-   "deployedAt": "2026-11-10T16:56:51.463Z",
+   "revision": 35,
+   "deployedAt": "2026-11-11T06:05:03.063Z",
    "firstDeployedAt": "2026-10-24T07:15:26.000Z",
    "tier": "medium",
    "thumb": "neon-crown-spire/thumb.jpg"
