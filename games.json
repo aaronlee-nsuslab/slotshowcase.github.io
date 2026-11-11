@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:07:06.966Z",
+ "updatedAt": "2026-11-11T06:07:11.112Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1215,7 +1215,7 @@
     "RTP 96.0%"
    ],
    "revision": 18,
-   "deployedAt": "2026-11-10T16:58:20.789Z",
+   "deployedAt": "2026-11-11T06:07:09.985Z",
    "firstDeployedAt": "2026-10-29T08:27:22.418Z",
    "tier": "low",
    "family": "Canopy Climb",
