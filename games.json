@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:06:56.754Z",
+ "updatedAt": "2026-11-11T06:07:02.024Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1181,7 +1181,7 @@
     "RTP 96.0%"
    ],
    "revision": 23,
-   "deployedAt": "2026-11-09T13:43:50.673Z",
+   "deployedAt": "2026-11-11T06:07:00.894Z",
    "firstDeployedAt": "2026-10-29T08:27:06.261Z",
    "tier": "medium",
    "family": "Gilded Rose Muse",
