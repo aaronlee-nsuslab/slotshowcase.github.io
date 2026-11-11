@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:08:03.627Z",
+ "updatedAt": "2026-11-11T06:08:08.773Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1428,7 +1428,7 @@
     "RTP 96.0%"
    ],
    "revision": 19,
-   "deployedAt": "2026-11-09T13:45:05.405Z",
+   "deployedAt": "2026-11-11T06:08:07.816Z",
    "firstDeployedAt": "2026-10-29T08:28:02.279Z",
    "tier": "medium",
    "family": "Terracotta Fortune",
