@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:06:06.583Z",
+ "updatedAt": "2026-11-11T06:06:10.686Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -998,7 +998,7 @@
     "RTP 96.0%"
    ],
    "revision": 28,
-   "deployedAt": "2026-11-10T16:57:49.193Z",
+   "deployedAt": "2026-11-11T06:06:09.554Z",
    "firstDeployedAt": "2026-10-29T08:26:11.316Z",
    "tier": "very-high",
    "family": "Ruby Hearts Royale",
