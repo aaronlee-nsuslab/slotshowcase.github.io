@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:07:27.515Z",
+ "updatedAt": "2026-11-11T06:07:31.719Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1297,7 +1297,7 @@
     "RTP 96.0%"
    ],
    "revision": 24,
-   "deployedAt": "2026-11-09T13:44:24.477Z",
+   "deployedAt": "2026-11-11T06:07:30.735Z",
    "firstDeployedAt": "2026-10-29T08:27:38.894Z",
    "tier": "medium",
    "family": "Hammer Hogs",
