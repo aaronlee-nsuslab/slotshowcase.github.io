@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:03:23.825Z",
+ "updatedAt": "2026-11-11T06:03:28.722Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -424,7 +424,7 @@
     "RTP 96.0%"
    ],
    "revision": 31,
-   "deployedAt": "2026-11-10T16:56:03.920Z",
+   "deployedAt": "2026-11-11T06:03:27.732Z",
    "firstDeployedAt": "2026-10-29T08:23:54.918Z",
    "tier": "high",
    "family": "Thunder Drum Fortune",
