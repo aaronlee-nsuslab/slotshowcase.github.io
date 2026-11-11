@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:03:52.327Z",
+ "updatedAt": "2026-11-11T06:03:57.320Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -521,7 +521,7 @@
     "RTP 96.0%"
    ],
    "revision": 31,
-   "deployedAt": "2026-11-09T13:40:29.864Z",
+   "deployedAt": "2026-11-11T06:03:56.335Z",
    "firstDeployedAt": "2026-10-24T07:15:34.000Z",
    "tier": "medium",
    "thumb": "hog-heist-bingo/thumb.jpg"
