@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:08:40.482Z",
+ "updatedAt": "2026-11-11T06:08:44.664Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1561,7 +1561,7 @@
     "RTP 96.0%"
    ],
    "revision": 24,
-   "deployedAt": "2026-11-10T16:59:23.365Z",
+   "deployedAt": "2026-11-11T06:08:43.683Z",
    "firstDeployedAt": "2026-10-29T08:28:40.130Z",
    "tier": "medium",
    "family": "Crown Gem Vaults",
