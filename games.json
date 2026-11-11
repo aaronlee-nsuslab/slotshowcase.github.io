@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:07:39.885Z",
+ "updatedAt": "2026-11-11T06:07:44.027Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -1347,7 +1347,7 @@
     "RTP 96.0%"
    ],
    "revision": 25,
-   "deployedAt": "2026-11-10T16:58:53.613Z",
+   "deployedAt": "2026-11-11T06:07:43.035Z",
    "firstDeployedAt": "2026-10-29T08:27:54.003Z",
    "tier": "high",
    "family": "Candy Pop Cascade",
