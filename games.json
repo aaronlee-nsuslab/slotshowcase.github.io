@@ -1,6 +1,6 @@
 {
  "title": "Slot Showcase",
- "updatedAt": "2026-11-11T06:03:03.610Z",
+ "updatedAt": "2026-11-11T06:03:08.487Z",
  "games": [
   {
    "pid": "80c1d512bb9f4a18",
@@ -357,7 +357,7 @@
     "RTP 96.0%"
    ],
    "revision": 26,
-   "deployedAt": "2026-11-09T13:39:39.503Z",
+   "deployedAt": "2026-11-11T06:03:07.170Z",
    "firstDeployedAt": "2026-10-29T08:23:22.172Z",
    "tier": "very-high",
    "family": "Nile Sovereign",
